@@ -1,5 +1,5 @@
 ---
-title: "Highlighted Research"
+title: "Research Highlights"
 permalink: /highlighted/
 author_profile: true
 ---
@@ -24,7 +24,7 @@ p.ex2 {
 </div> 
 <p class="ex1">
 <font color="black"><b>A Survey on Large Language Model based Autonomous Agents</b></font><br>
-Lei Wang, Chen Ma, Xueyang Feng, Zeyu Zhang, Hao Yang, Jingsen Zhang, Zhiyuan Chen, Jiakai Tang, <font color="black"><b>Xu Chen</b></font>, Yankai Lin, Wayne Xin Zhao, Zhewei Wei, Ji-Rong Wen.<br>
+Lei Wang, Chen Ma, Xueyang Feng, Zeyu Zhang, Hao Yang, Jingsen Zhang, Zhiyuan Chen, Jiakai Tang, <font color="black"><b>Xu Chen</b></font>*, Yankai Lin*, Wayne Xin Zhao, Zhewei Wei, Ji-Rong Wen.<br>
 <font color="blue">
 Autonomous agents have long been a prominent research topic in the academic community. Previous research in this field often focuses on training agents with limited knowledge within isolated environments, which diverges significantly from the human learning processes, and thus makes the agents hard to achieve human-like decisions. Recently, through the acquisition of vast amounts of web knowledge, large language models (LLMs) have demonstrated remarkable potential in achieving human-level intelligence. This has sparked an upsurge in studies investigating autonomous agents based on LLMs. To harness the full potential of LLMs, researchers have devised diverse agent architectures tailored to different applications. In this paper, we present a comprehensive survey of these studies, delivering a systematic review of the field of autonomous agents from a holistic perspective. More specifically, our focus lies in the construction of LLM-based agents, for which we propose a unified framework that encompasses a majority of the previous work. Additionally, we provide a summary of the various applications of LLM-based AI agents in the domains of social science, natural science, and engineering. Lastly, we discuss the commonly employed evaluation strategies for LLM-based AI agents. Based on the previous studies, we also present several challenges and future directions in this field. 
 </font><br>
@@ -39,7 +39,7 @@ Autonomous agents have long been a prominent research topic in the academic comm
 </div> 
 <p class="ex1">
 <font color="black"><b>User Behavior Simulation with Large Language Model based Agents</b></font><br>
-Lei Wang, Jingsen Zhang, Hao Yang, Zhiyuan Chen, Jiakai Tang, Zeyu Zhang, <font color="black"><b>Xu Chen</b></font>, Yankai Lin, Ruihua Song, Wayne Xin Zhao, Jun Xu, Zhicheng Dou, Jun Wang, Ji-Rong Wen.<br>
+Lei Wang, Jingsen Zhang, Hao Yang, Zhiyuan Chen, Jiakai Tang, Zeyu Zhang, <font color="black"><b>Xu Chen</b></font>*, Yankai Lin*, Ruihua Song, Wayne Xin Zhao, Jun Xu, Zhicheng Dou, Jun Wang, Ji-Rong Wen*.<br>
 <font color="blue">
 Simulating high quality user behavior data has always been a fundamental problem in human-centered applications, where the major difficulty originates from the intricate mechanism of human decision process. Recently, substantial evidences have suggested that by learning huge amounts of web knowledge, large language models (LLMs) can achieve human-like intelligence. We believe these models can provide significant opportunities to more believable user behavior simulation. To inspire such direction, we propose an LLM-based agent framework and design a sandbox environment to simulate real user behaviors. Based on extensive experiments, we find that the simulated behaviors of our method are very close to the ones of real humans. Concerning potential applications, we simulate and study two social phenomenons including (1) information cocoons and (2) user conformity behaviors. This research provides novel simulation paradigms for human-centered applications. 
 </font><br>
