@@ -21,6 +21,16 @@ p.ex2 {
 
 
 <p class="ex1">
+<font color="black"><b>Preprint Papers:</b></font>
+</p>
+<p class="ex1">
+<font color="black"><b>Large Language Model-based Human-Agent Collaboration for Complex Task Solving</b></font><br>
+Xueyang Feng, Zhi-Yuan Chen, Yujia Qin, Yankai Lin*, <font color="black"><b>Xu Chen</b></font>*, Zhiyuan Liu, Ji-Rong Wen<br>
+<font color="black"><i>https://arxiv.org/abs/2402.12914</i></font>
+</p>
+
+
+<p class="ex1">
 <font color="black"><b>In the year of 2024:</b></font>
 </p>
 <p class="ex1">
