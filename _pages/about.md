@@ -34,9 +34,10 @@ His research fields include LLM-based autonomous agents, causal inference and re
 
 <font color="red">I am always looking for highly self-motivated students to work with me as PhD, master or visiting students. 
 Please drop me an email at xu.chen@ruc.edu.cn if you are interested in my research group.</font>
-
+<br>
 
 <font color="red">Lab Page: http://ai-engine-lab.com/ </font>
+<br>
 
 
 <p class="ex3">
