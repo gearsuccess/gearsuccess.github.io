@@ -44,6 +44,9 @@ Please drop me an email at xu.chen@ruc.edu.cn if you are interested in my resear
 <b>What's new</b>
 </p>
 <p class="ex1">
+2024-3-5 Our lab page has been launched at http://ai-engine-lab.com/.
+</p>
+<p class="ex1">
 2024-1-23 Papers on causal inference and recommendation got accepted by <b>TheWebConf 2024</b>.
 </p>
 <p class="ex1">
