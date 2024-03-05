@@ -30,13 +30,13 @@ About me
 <br>Xu Chen is an associate professor (pre-tenure) at <a href="http://ai.ruc.edu.cn/"><font color="blue">Gaoling School of Artificial Intelligence, Renmin University of China</font></a>. Before that, he was a research fellow at University College London, UK, working with Prof. <a href="http://www0.cs.ucl.ac.uk/staff/Jun.Wang/"><font color="blue">Jun Wang</font></a>. 
 He obtained his PhD degree from Tsinghua University, China, under the supervision of Prof. <a href="https://www.thss.tsinghua.edu.cn/faculty/qinzheng.htm"><font color="blue">Zheng Qin</font></a>. 
 In the period from March to September of 2017, he was studying at Georgia Institute of Technology, USA, as a visiting scholar, supervised by Prof. <a href="https://sds.cuhk.edu.cn/en/teacher/65"><font color="blue">Hongyuan Zha</font></a>. 
-His research fields include LLM-based autonomous agents, causal inference and recommendation system.<br>
+His research fields include LLM-based autonomous agents, causal inference and recommendation system.
+For more information, please visit his lab page <a href=" http://ai-engine-lab.com/"><font color="blue">http://ai-engine-lab.com/</font></a>.
+<br>
+
 
 <font color="red">I am always looking for highly self-motivated students to work with me as PhD, master or visiting students. 
 Please drop me an email at xu.chen@ruc.edu.cn if you are interested in my research group.</font>
-<br>
-
-<font color="red">Lab Page: http://ai-engine-lab.com/ </font>
 <br>
 
 
