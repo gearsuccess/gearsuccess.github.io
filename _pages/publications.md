@@ -58,7 +58,7 @@ Lei Wang, <font color="black"><b>Xu Chen</b></font>*, Zhenhua Dong, Quanyu Dai<b
 Hao Yang, Xian Wu, Zhaopeng Qiu, Yefeng Zheng, and <font color="black"><b>Xu Chen</b></font>*<br>
 <font color="black"><i>ACM Transactions on Information Systems</i> (<b>TOIS</b>)</font>
 </p>
-<p class="ex1">
+<p class="ex2">
 <font color="black"><b>Uncovering the Limitations of Eliminating Selection Bias for Recommendation: Missing Mechanisms, Disentanglement, and Identifiability</b></font><br>
 Haoxuan Li, Shuyi Wang, Honglei Zhang, Chunyuan Zheng, <font color="black"><b>Xu Chen</b></font>, Li Liu, Shanshan Luo, Peng Wu<br> 
 <font color="black"><i>International Conference on Data Engineering</i> (<b>ICDE</b>)</font>
@@ -169,7 +169,7 @@ Xi Li, Jingsen Zhang, Xiaohe Bo, Lei Wang, <font color="black"><b>Xu Chen</b></f
 Yabin Zhang, Weiqi Shao, <font color="black"><b>Xu Chen</b></font>*, Yali Du, Xiaoxiao Xu, Dong Zheng, Changhua Pei, Shuai Zhang, Peng Jiang and Kun Gai<br>
 <font color="black"><i>International Joint Conference on Neural Networks</i> (<b>IJCNN</b>)</font>
 </p> -->
-<p class="ex1">
+<p class="ex2">
 <font color="black"><b>Joint Semantic and Strategy Matching for Persuasive Dialogue</b></font><br>
 Chuhao Jin, Yutao Zhu, Lingzhen Kong, Shijie Li, Xiao Zhang, Ruihua Song, <font color="black"><b>Xu Chen</b></font>, Huan chen, Yuchong Sun, Yu Chen, Jun Xu<br>
 <font color="black"><i>Conference on Empirical Methods in Natural Language Processing</i> (<b>EMNLP-findings</b>)</font>
