@@ -149,11 +149,11 @@ Hao Yang, Zhining Liu, Zeyu Zhang, Chenyi Zhuang and <font color="black"><b>Xu C
 Weiqi Shao, <font color="black"><b>Xu Chen</b></font>*, Jiashu Zhao, Long Xia, Jingsen Zhang and Dawei Yin<br>
 <font color="black"><i>International ACM SIGIR Conference on Information Retrieval in the Asia Pacific</i> (<b>SIGIR-AP, <font color="red">Best Paper Honorable Mention</font></b>) </font>
 </p>
-<p class="ex1">
+<!-- <p class="ex1">
 <font color="black"><b>Reinforcement Re-ranking with 2D Grid-based Recommendation Panels</b></font><br>
 Sirui Chen, Xiao Zhang, <font color="black"><b>Xu Chen</b></font>, Zhiyu Li, Yuan Wang, Quan Lin and Jun Xu<br>
 <font color="black"><i>International ACM SIGIR Conference on Information Retrieval in the Asia Pacific</i> (<b>SIGIR-AP</b>)</font>
-</p>
+</p> -->
 <p class="ex1">
 <font color="black"><b>Towards a More User-Friendly and Easy-to-Use Benchmark Library for Recommender Systems.</b></font><br>
 Lanling Xu, Zhen Tian, Gaowei Zhang, Junjie Zhang, Lei Wang, Bowen Zheng, Yifan Li, Jiakai Tang, Zeyu Zhang, Yupeng Hou, Xingyu Pan, Wayne Xin Zhao*, <font color="black"><b>Xu Chen</b></font>* and Ji-Rong Wen<br>
