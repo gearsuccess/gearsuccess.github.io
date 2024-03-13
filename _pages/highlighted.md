@@ -44,7 +44,8 @@ Lei Wang, Jingsen Zhang, Hao Yang, Zhiyuan Chen, Jiakai Tang, Zeyu Zhang, <font 
 Simulating high quality user behavior data has always been a fundamental problem in human-centered applications, where the major difficulty originates from the intricate mechanism of human decision process. Recently, substantial evidences have suggested that by learning huge amounts of web knowledge, large language models (LLMs) can achieve human-like intelligence. We believe these models can provide significant opportunities to more believable user behavior simulation. To inspire such direction, we propose an LLM-based agent framework and design a sandbox environment to simulate real user behaviors. Based on extensive experiments, we find that the simulated behaviors of our method are very close to the ones of real humans. Concerning potential applications, we simulate and study two social phenomenons including (1) information cocoons and (2) user conformity behaviors. This research provides novel simulation paradigms for human-centered applications. 
 </font><br>
 <font color="black">https://arxiv.org/pdf/2306.02552</font><br>
-<font color="black">https://github.com/RUC-GSAI/YuLan-Rec</font>
+<font color="black">https://github.com/RUC-GSAI/YuLan-Rec</font><br>
+<font color="black"><i>Frontiers of Computer Science</i> (<b>FCS 2024</b>)</font>
 </p>
 
 

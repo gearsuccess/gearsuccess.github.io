@@ -34,6 +34,11 @@ Xueyang Feng, Zhi-Yuan Chen, Yujia Qin, Yankai Lin*, <font color="black"><b>Xu C
 <font color="black"><b>In the year of 2024:</b></font>
 </p>
 <p class="ex1">
+<font color="black"><b>Distributional Fairness-aware Recommendation</b></font><br>
+Hao Yang, Xian Wu, Zhaopeng Qiu, Yefeng Zheng, and <font color="black"><b>Xu Chen</b></font>*<br>
+<font color="black"><i>ACM Transactions on Information Systems</i> (<b>TOIS</b>)</font>
+</p>
+<p class="ex1">
 <font color="black"><b>Causally Debiased Time-aware Recommendation</b></font><br>
 Lei Wang, Chen Ma, Xian Wu, Zhaopeng Qiu, Yefeng Zheng, <font color="black"><b>Xu Chen</b></font>*<br>
 <font color="black"><i>International World Wide Web Conference</i> (<b>TheWebConf</b>)</font>
@@ -52,6 +57,16 @@ Haoxuan Li, Yanghao Xiao, Chunyuan Zheng, Peng Wu, Zhi Geng, <font color="black"
 <font color="black"><b>Would You Like Your Data to Be Trained? A User Controllable Recommendation Framework</b></font><br>
 Lei Wang, <font color="black"><b>Xu Chen</b></font>*, Zhenhua Dong, Quanyu Dai<br> 
 <font color="black"><i>Thirty-Eighth AAAI Conference on Artificial Intelligence</i> (<b>AAAI, Safe, Robust and Responsible Track</b>)</font>
+</p>
+<p class="ex1">
+<font color="black"><b>Uncovering the Limitations of Eliminating Selection Bias for Recommendation: Missing Mechanisms, Disentanglement, and Identifiability</b></font><br>
+Haoxuan Li, Shuyi Wang, Honglei Zhang, Chunyuan Zheng, <font color="black"><b>Xu Chen</b></font>, Li Liu, Shanshan Luo, Peng Wu
+<font color="black"><i>International Conference on Data Engineering</i> (<b>ICDE</b>)</font>
+</p>
+<p class="ex1">
+<font color="black"><b>Enhancing Sequential Recommendation Modeling via Adversarial Training</b></font><br>
+Yabin, <font color="black"><b>Xu Chen</b></font>*<br> 
+<font color="black"><i>IEEE International Conference on Multimedia and Expo</i> (<b>ICME</b>)</font>
 </p>
 <p class="ex1">
 <font color="black"><b>Active Explainable Recommendation With Limited Labeling Budget</b></font><br>
