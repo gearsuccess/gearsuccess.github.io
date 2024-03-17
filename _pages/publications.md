@@ -58,12 +58,12 @@ Lei Wang, <font color="black"><b>Xu Chen</b></font>*, Zhenhua Dong, Quanyu Dai<b
 Hao Yang, Xian Wu, Zhaopeng Qiu, Yefeng Zheng, and <font color="black"><b>Xu Chen</b></font>*<br>
 <font color="black"><i>ACM Transactions on Information Systems</i> (<b>TOIS</b>)</font>
 </p>
-<p class="ex1">
+<p class="ex2">
 <font color="black"><b>Uncovering the Limitations of Eliminating Selection Bias for Recommendation: Missing Mechanisms, Disentanglement, and Identifiability</b></font><br>
 Haoxuan Li, Shuyi Wang, Honglei Zhang, Chunyuan Zheng, <font color="black"><b>Xu Chen</b></font>, Li Liu, Shanshan Luo, Peng Wu<br> 
 <font color="black"><i>International Conference on Data Engineering</i> (<b>ICDE</b>)</font>
 </p>
-<p class="ex1">
+<!-- <p class="ex1">
 <font color="black"><b>Enhancing Sequential Recommendation Modeling via Adversarial Training</b></font><br>
 Yabin Zhang, <font color="black"><b>Xu Chen</b></font>*<br> 
 <font color="black"><i>IEEE International Conference on Multimedia and Expo</i> (<b>ICME</b>)</font>
@@ -77,7 +77,7 @@ Jingsen Zhang, Xiaohe Bo, Chenxi Wang, Quanyu Dai, Zhenhua Dong, Ruiming Tang, <
 <font color="black"><b>M3TN: Multi-gate MOE based Multi-valued Treatment Network for More Effective Uplift Modeling</b></font><br>
 Zexu Sun, <font color="black"><b>Xu Chen</b></font>*<br> 
 <font color="black"><i>IEEE International Conference on Acoustics, Speech and Signal Processing</i> (<b>ICASSP</b>)</font>
-</p> 
+</p>  -->
 
 
 <p class="ex1">
@@ -159,7 +159,7 @@ Sirui Chen, Xiao Zhang, <font color="black"><b>Xu Chen</b></font>, Zhiyu Li, Yua
 Lanling Xu, Zhen Tian, Gaowei Zhang, Junjie Zhang, Lei Wang, Bowen Zheng, Yifan Li, Jiakai Tang, Zeyu Zhang, Yupeng Hou, Xingyu Pan, Wayne Xin Zhao*, <font color="black"><b>Xu Chen</b></font>* and Ji-Rong Wen<br>
 <font color="black"><i>International ACM SIGIR Conference on Research and Development in Information Retrieval</i> (<b>SIGIR resource</b>)</font>
 </p>
-<p class="ex1">
+<!-- <p class="ex1">
 <font color="black"><b>Recommendation with Dynamic Natural Language Explanations.</b></font><br>
 Xi Li, Jingsen Zhang, Xiaohe Bo, Lei Wang, <font color="black"><b>Xu Chen</b></font>*<br>
 <font color="black"><i>International Joint Conference on Neural Networks</i> (<b>IJCNN</b>)</font>
@@ -168,7 +168,7 @@ Xi Li, Jingsen Zhang, Xiaohe Bo, Lei Wang, <font color="black"><b>Xu Chen</b></f
 <font color="black"><b>A Multi-Agent Framework for Recommendation with Heterogeneous Sources.</b></font><br>
 Yabin Zhang, Weiqi Shao, <font color="black"><b>Xu Chen</b></font>*, Yali Du, Xiaoxiao Xu, Dong Zheng, Changhua Pei, Shuai Zhang, Peng Jiang and Kun Gai<br>
 <font color="black"><i>International Joint Conference on Neural Networks</i> (<b>IJCNN</b>)</font>
-</p>
+</p> -->
 <p class="ex1">
 <font color="black"><b>Joint Semantic and Strategy Matching for Persuasive Dialogue</b></font><br>
 Chuhao Jin, Yutao Zhu, Lingzhen Kong, Shijie Li, Xiao Zhang, Ruihua Song, <font color="black"><b>Xu Chen</b></font>, Huan chen, Yuchong Sun, Yu Chen, Jun Xu<br>
