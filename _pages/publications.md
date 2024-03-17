@@ -53,7 +53,7 @@ Haoxuan Li, Yanghao Xiao, Chunyuan Zheng, Peng Wu, Zhi Geng, <font color="black"
 Lei Wang, <font color="black"><b>Xu Chen</b></font>*, Zhenhua Dong, Quanyu Dai<br> 
 <font color="black"><i>Thirty-Eighth AAAI Conference on Artificial Intelligence</i> (<b>AAAI</b>)</font>
 </p>
-<p class="ex2">
+<p class="ex1">
 <font color="black"><b>Distributional Fairness-aware Recommendation</b></font><br>
 Hao Yang, Xian Wu, Zhaopeng Qiu, Yefeng Zheng, and <font color="black"><b>Xu Chen</b></font>*<br>
 <font color="black"><i>ACM Transactions on Information Systems</i> (<b>TOIS</b>)</font>
