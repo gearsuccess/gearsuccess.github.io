@@ -29,7 +29,7 @@ Xueyang Feng, Zhi-Yuan Chen, Yujia Qin, Yankai Lin*, <font color="black"><b>Xu C
 <font color="black"><i>https://arxiv.org/abs/2402.12914</i></font>
 </p>
 
-<!-- 
+
 <p class="ex1">
 <font color="black"><b>In the year of 2024:</b></font>
 </p>
@@ -57,13 +57,13 @@ Lei Wang, <font color="black"><b>Xu Chen</b></font>*, Zhenhua Dong, Quanyu Dai<b
 <font color="black"><b>Distributional Fairness-aware Recommendation</b></font><br>
 Hao Yang, Xian Wu, Zhaopeng Qiu, Yefeng Zheng, and <font color="black"><b>Xu Chen</b></font>*<br>
 <font color="black"><i>ACM Transactions on Information Systems</i> (<b>TOIS</b>)</font>
-</p> -->
-<!-- <p class="ex2">
+</p>
+<p class="ex1">
 <font color="black"><b>Uncovering the Limitations of Eliminating Selection Bias for Recommendation: Missing Mechanisms, Disentanglement, and Identifiability</b></font><br>
 Haoxuan Li, Shuyi Wang, Honglei Zhang, Chunyuan Zheng, <font color="black"><b>Xu Chen</b></font>, Li Liu, Shanshan Luo, Peng Wu<br> 
 <font color="black"><i>International Conference on Data Engineering</i> (<b>ICDE</b>)</font>
-</p> -->
-<!-- <p class="ex1">
+</p>
+<p class="ex1">
 <font color="black"><b>Enhancing Sequential Recommendation Modeling via Adversarial Training</b></font><br>
 Yabin Zhang, <font color="black"><b>Xu Chen</b></font>*<br> 
 <font color="black"><i>IEEE International Conference on Multimedia and Expo</i> (<b>ICME</b>)</font>
@@ -77,7 +77,7 @@ Jingsen Zhang, Xiaohe Bo, Chenxi Wang, Quanyu Dai, Zhenhua Dong, Ruiming Tang, <
 <font color="black"><b>M3TN: Multi-gate MOE based Multi-valued Treatment Network for More Effective Uplift Modeling</b></font><br>
 Zexu Sun, <font color="black"><b>Xu Chen</b></font>*<br> 
 <font color="black"><i>IEEE International Conference on Acoustics, Speech and Signal Processing</i> (<b>ICASSP</b>)</font>
-</p>  --> 
+</p> 
 
 
 <p class="ex1">
@@ -149,17 +149,17 @@ Hao Yang, Zhining Liu, Zeyu Zhang, Chenyi Zhuang and <font color="black"><b>Xu C
 Weiqi Shao, <font color="black"><b>Xu Chen</b></font>*, Jiashu Zhao, Long Xia, Jingsen Zhang and Dawei Yin<br>
 <font color="black"><i>International ACM SIGIR Conference on Information Retrieval in the Asia Pacific</i> (<b>SIGIR-AP, <font color="red">Best Paper Honorable Mention</font></b>) </font>
 </p>
-<!-- <p class="ex1">
+<p class="ex1">
 <font color="black"><b>Reinforcement Re-ranking with 2D Grid-based Recommendation Panels</b></font><br>
 Sirui Chen, Xiao Zhang, <font color="black"><b>Xu Chen</b></font>, Zhiyu Li, Yuan Wang, Quan Lin and Jun Xu<br>
 <font color="black"><i>International ACM SIGIR Conference on Information Retrieval in the Asia Pacific</i> (<b>SIGIR-AP</b>)</font>
-</p> -->
+</p>
 <p class="ex1">
 <font color="black"><b>Towards a More User-Friendly and Easy-to-Use Benchmark Library for Recommender Systems.</b></font><br>
 Lanling Xu, Zhen Tian, Gaowei Zhang, Junjie Zhang, Lei Wang, Bowen Zheng, Yifan Li, Jiakai Tang, Zeyu Zhang, Yupeng Hou, Xingyu Pan, Wayne Xin Zhao*, <font color="black"><b>Xu Chen</b></font>* and Ji-Rong Wen<br>
 <font color="black"><i>International ACM SIGIR Conference on Research and Development in Information Retrieval</i> (<b>SIGIR resource</b>)</font>
 </p>
-<!-- <p class="ex1">
+<p class="ex1">
 <font color="black"><b>Recommendation with Dynamic Natural Language Explanations.</b></font><br>
 Xi Li, Jingsen Zhang, Xiaohe Bo, Lei Wang, <font color="black"><b>Xu Chen</b></font>*<br>
 <font color="black"><i>International Joint Conference on Neural Networks</i> (<b>IJCNN</b>)</font>
@@ -168,22 +168,22 @@ Xi Li, Jingsen Zhang, Xiaohe Bo, Lei Wang, <font color="black"><b>Xu Chen</b></f
 <font color="black"><b>A Multi-Agent Framework for Recommendation with Heterogeneous Sources.</b></font><br>
 Yabin Zhang, Weiqi Shao, <font color="black"><b>Xu Chen</b></font>*, Yali Du, Xiaoxiao Xu, Dong Zheng, Changhua Pei, Shuai Zhang, Peng Jiang and Kun Gai<br>
 <font color="black"><i>International Joint Conference on Neural Networks</i> (<b>IJCNN</b>)</font>
-</p> -->
-<p class="ex2">
+</p>
+<p class="ex1">
 <font color="black"><b>Joint Semantic and Strategy Matching for Persuasive Dialogue</b></font><br>
 Chuhao Jin, Yutao Zhu, Lingzhen Kong, Shijie Li, Xiao Zhang, Ruihua Song, <font color="black"><b>Xu Chen</b></font>, Huan chen, Yuchong Sun, Yu Chen, Jun Xu<br>
 <font color="black"><i>Conference on Empirical Methods in Natural Language Processing</i> (<b>EMNLP-findings</b>)</font>
 </p>
-<!-- <p class="ex1">
+<p class="ex1">
 <font color="black"><b>Causal Collaborative Filtering.</b></font><br>
 Shuyuan Xu, Yingqiang Ge, Yunqi Li, Zuohui Fu, <font color="black"><b>Xu Chen</b></font>, Yongfeng Zhang<br>
 <font color="black"><i>International Conference on the Theory of Information Retrieval</i> (<b>ICTIR</b>)</font>
-</p> -->
-<!-- <p class="ex2">
+</p>
+<p class="ex2">
 <font color="black"><b>Robust Causal Inference for Recommender System to Overcome Noisy Confounders.</b></font><br>
 Zhiheng Zhang, Quanyu Dai, <font color="black"><b>Xu Chen</b></font>, Zhenhua Dong, Ruiming Tang<br>
 <font color="black"><i>International ACM SIGIR Conference on Research and Development in Information Retrieval</i> (<b>SIGIR short</b>)</font>
-</p> -->
+</p>
 
 
 <p class="ex1">
