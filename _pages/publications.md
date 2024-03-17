@@ -29,7 +29,7 @@ Xueyang Feng, Zhi-Yuan Chen, Yujia Qin, Yankai Lin*, <font color="black"><b>Xu C
 <font color="black"><i>https://arxiv.org/abs/2402.12914</i></font>
 </p>
 
-
+<!-- 
 <p class="ex1">
 <font color="black"><b>In the year of 2024:</b></font>
 </p>
@@ -57,7 +57,7 @@ Lei Wang, <font color="black"><b>Xu Chen</b></font>*, Zhenhua Dong, Quanyu Dai<b
 <font color="black"><b>Distributional Fairness-aware Recommendation</b></font><br>
 Hao Yang, Xian Wu, Zhaopeng Qiu, Yefeng Zheng, and <font color="black"><b>Xu Chen</b></font>*<br>
 <font color="black"><i>ACM Transactions on Information Systems</i> (<b>TOIS</b>)</font>
-</p>
+</p> -->
 <!-- <p class="ex2">
 <font color="black"><b>Uncovering the Limitations of Eliminating Selection Bias for Recommendation: Missing Mechanisms, Disentanglement, and Identifiability</b></font><br>
 Haoxuan Li, Shuyi Wang, Honglei Zhang, Chunyuan Zheng, <font color="black"><b>Xu Chen</b></font>, Li Liu, Shanshan Luo, Peng Wu<br> 
