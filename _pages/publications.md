@@ -53,16 +53,16 @@ Haoxuan Li, Yanghao Xiao, Chunyuan Zheng, Peng Wu, Zhi Geng, <font color="black"
 Lei Wang, <font color="black"><b>Xu Chen</b></font>*, Zhenhua Dong, Quanyu Dai<br> 
 <font color="black"><i>Thirty-Eighth AAAI Conference on Artificial Intelligence</i> (<b>AAAI</b>)</font>
 </p>
-<p class="ex1">
+<p class="ex2">
 <font color="black"><b>Distributional Fairness-aware Recommendation</b></font><br>
 Hao Yang, Xian Wu, Zhaopeng Qiu, Yefeng Zheng, and <font color="black"><b>Xu Chen</b></font>*<br>
 <font color="black"><i>ACM Transactions on Information Systems</i> (<b>TOIS</b>)</font>
 </p>
-<p class="ex2">
+<!-- <p class="ex2">
 <font color="black"><b>Uncovering the Limitations of Eliminating Selection Bias for Recommendation: Missing Mechanisms, Disentanglement, and Identifiability</b></font><br>
 Haoxuan Li, Shuyi Wang, Honglei Zhang, Chunyuan Zheng, <font color="black"><b>Xu Chen</b></font>, Li Liu, Shanshan Luo, Peng Wu<br> 
 <font color="black"><i>International Conference on Data Engineering</i> (<b>ICDE</b>)</font>
-</p>
+</p> -->
 <!-- <p class="ex1">
 <font color="black"><b>Enhancing Sequential Recommendation Modeling via Adversarial Training</b></font><br>
 Yabin Zhang, <font color="black"><b>Xu Chen</b></font>*<br> 
