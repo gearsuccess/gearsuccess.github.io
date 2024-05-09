@@ -1,0 +1,18 @@
+# main links links
+main:
+
+  - title: "Publications"
+    url: /publications/     
+  
+  - title: "Highlighted Research"
+    url: /highlighted/
+
+  - title: "Awards"
+    url: /awards/
+    
+  - title: "Contact"
+    url: /contact/
+
+  
+
+
