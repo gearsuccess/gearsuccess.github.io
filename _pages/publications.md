@@ -4,9 +4,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!-- <p class="ex1">
- corresponding author
-</p> -->
+<p class="ex1">
+* corresponding author
+</p>
 
 <style>
 p.ex1 {
@@ -22,17 +22,17 @@ p.ex2 {
 
 <p class="ex1">
 <img src="../images/hot.jpeg" alt="agent-s" width="13"> <font color="black"><b>A Survey on Large Language Model based Autonomous Agents</b></font><br>
-Lei Wang, Chen Ma, Xueyang Feng, Zeyu Zhang, Hao Yang, Jingsen Zhang, Zhiyuan Chen, Jiakai Tang, <font color="black"><b>Xu Chen</b></font>, Yankai Lin, Wayne Xin Zhao, Zhewei Wei, Ji-Rong Wen.<br>
+Lei Wang, Chen Ma, Xueyang Feng, Zeyu Zhang, Hao Yang, Jingsen Zhang, Zhiyuan Chen, Jiakai Tang, <font color="black"><b>Xu Chen</b></font>*, Yankai Lin*, Wayne Xin Zhao, Zhewei Wei, Ji-Rong Wen.<br>
 <font color="black"><i>Frontiers of Computer Science</i> (<b>FCS 2024</b>)</font>
 </p>
 <p class="ex1">
 <img src="../images/hot.jpeg" alt="agent-s" width="13"> <font color="black"><b>User Behavior Simulation with Large Language Model based Agents</b></font><br>
-Lei Wang, Jingsen Zhang, Hao Yang, Zhiyuan Chen, Jiakai Tang, Zeyu Zhang, <font color="black"><b>Xu Chen</b></font>, Yankai Lin, Ruihua Song, Wayne Xin Zhao, Jun Xu, Zhicheng Dou, Jun Wang, Ji-Rong Wen.<br>
+Lei Wang, Jingsen Zhang, Hao Yang, Zhiyuan Chen, Jiakai Tang, Zeyu Zhang, <font color="black"><b>Xu Chen</b></font>*, Yankai Lin*, Ruihua Song, Wayne Xin Zhao, Jun Xu, Zhicheng Dou, Jun Wang, Ji-Rong Wen*.<br>
 <font color="black">https://arxiv.org/pdf/2306.02552</font>
 </p>
 <p class="ex1">
 <img src="../images/hot.jpeg" alt="agent-s" width="13"> <font color="black"><b>A Survey on the Memory Mechanism of Large Language Model based Agents</b></font><br>
-Zeyu Zhang, Xiaohe Bo, Chen Ma, Rui Li, <font color="black"><b>Xu Chen</b></font>, Quanyu Dai, Jieming Zhu, Zhenhua Dong, Ji-Rong Wen.<br>
+Zeyu Zhang, Xiaohe Bo, Chen Ma, Rui Li, <font color="black"><b>Xu Chen</b></font>*, Quanyu Dai, Jieming Zhu, Zhenhua Dong, Ji-Rong Wen.<br>
 <font color="black">https://arxiv.org/abs/2404.13501</font>
 </p>
 <p class="ex1">
@@ -42,7 +42,7 @@ Zeyu Zhang, Xiaohe Bo, Chen Ma, Rui Li, <font color="black"><b>Xu Chen</b></font
 </p>
 <p class="ex1">
 <img src="../images/hot.jpeg" alt="agent-s" width="13"> <font color="black"><b>RecBole: Towards a Unified, Comprehensive and Efficient Framework for Recommendation Algorithms.</b></font><br>
-Wayne Xin Zhao, Shanlei Mu, Yupeng Hou, Zihan Lin, Yushuo Chen, Xingyu Pan, Kaiyuan Li, Yujie Lu, Hui Wang, Changxin Tian, Yingqian Min, Zhichao Feng, Xinyan Fan, <font color="black"><b>Xu Chen</b></font>, Pengfei Wang, Wendi Ji, Yaliang Li, Xiaoling Wang and Ji-Rong Wen.<br>
+Wayne Xin Zhao, Shanlei Mu, Yupeng Hou, Zihan Lin, Yushuo Chen, Xingyu Pan, Kaiyuan Li, Yujie Lu, Hui Wang, Changxin Tian, Yingqian Min, Zhichao Feng, Xinyan Fan, <font color="black"><b>Xu Chen</b></font>*, Pengfei Wang*, Wendi Ji, Yaliang Li, Xiaoling Wang and Ji-Rong Wen.<br>
 <font color="black"><i>The Conference on Information and Knowledge Management</i> (<b>CIKM 2021, resource</b>)</font>
 </p>
 <p class="ex1">
@@ -62,7 +62,7 @@ Yongfeng Zhang and <font color="black"><b>Xu Chen</b></font>.<br>
 </p>
 <p class="ex2">
 <font color="black"><b>Large Language Model-based Human-Agent Collaboration for Complex Task Solving</b></font><br>
-Xueyang Feng, Zhi-Yuan Chen, Yujia Qin, Yankai Lin, <font color="black"><b>Xu Chen</b></font>, Zhiyuan Liu, Ji-Rong Wen<br>
+Xueyang Feng, Zhi-Yuan Chen, Yujia Qin, Yankai Lin*, <font color="black"><b>Xu Chen</b></font>*, Zhiyuan Liu, Ji-Rong Wen<br>
 <font color="black"><i>https://arxiv.org/abs/2402.12914</i></font>
 </p>
 
@@ -72,42 +72,57 @@ Xueyang Feng, Zhi-Yuan Chen, Yujia Qin, Yankai Lin, <font color="black"><b>Xu Ch
 </p>
 <p class="ex1">
 <font color="black"><b>Relaxing the Accurate Imputation Assumption in Doubly Robust Learning for Debiased Recommendation</b></font><br>
-Haoxuan Li, Chunyuan Zheng, Shuyi Wang, Kunhan Wu, Hao Wang, Peng Wu, Zhi Geng, <font color="black"><b>Xu Chen</b></font>, Xiao-Hua Zhou<br>
+Haoxuan Li, Chunyuan Zheng, Shuyi Wang, Kunhan Wu, Hao Wang, Peng Wu, Zhi Geng, <font color="black"><b>Xu Chen</b></font>*, Xiao-Hua Zhou<br>
 <font color="black"><i>International Conference on Machine Learning</i> (<b>ICML</b>)</font>
 </p>
 <p class="ex1">
 <font color="black"><b>Generalizing Knowledge Graph Embedding with Universal Orthogonal Parameterization</b></font><br>
-Rui Li, Chaozhuo Li, Yanming Shen, Zeyu Zhang, <font color="black"><b>Xu Chen</b></font><br>
+Rui Li, Chaozhuo Li, Yanming Shen, Zeyu Zhang, <font color="black"><b>Xu Chen</b></font>*<br>
 <font color="black"><i>International Conference on Machine Learning</i> (<b>ICML</b>)</font>
 </p>
 <p class="ex1">
 <font color="black"><b>Debiased Collaborative Filtering with Kernel-Based Causal Balancing</b></font><br>
-Haoxuan Li, Chunyuan Zheng, Yanghao Xiao, Peng Wu, Zhi Geng, <font color="black"><b>Xu Chen</b></font>, Peng Cui<br> 
+Haoxuan Li, Chunyuan Zheng, Yanghao Xiao, Peng Wu, Zhi Geng, <font color="black"><b>Xu Chen</b></font>*, Peng Cui<br> 
 <font color="black"><i>International Conference on Learning Representations</i> (<b>ICLR spotlight 5.0%</b>)</font>
 </p>
 <p class="ex1">
+<font color="black"><b>Towards Robust Recommendation via Decision Boundary-aware Graph Contrastive Learning</b></font><br>
+Jiakai Tang, Sunhao Dai, Zexu Sun, <font color="black"><b>Xu Chen</b></font>*, Jun Xu, Wenhui Yu, Lantao Hu, Peng Jiang, Han Li
+<font color="black"><i>ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i> (<b>KDD Research</b>)</font>
+</p>
+<p class="ex1">
+<font color="black"><b>Policy-Based Bayesian Active Causal Discovery with Deep Reinforcement Learning</b></font><br>
+Heyang Gao, Zexu Sun, Hao Yang, <font color="black"><b>Xu Chen</b></font>*
+<font color="black"><i>ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i> (<b>KDD Research</b>)</font>
+</p>
+<p class="ex1">
+<font color="black"><b>Natural Language Explainable Recommendation with Robustness Enhancement</b></font><br>
+Jingsen Zhang, Jiakai Tang, <font color="black"><b>Xu Chen</b></font>*, Wenhui Yu, Lantao Hu, Peng Jiang, Han Li
+<font color="black"><i>ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i> (<b>KDD Research</b>)</font>
+</p>
+<p class="ex1">
 <font color="black"><b>Causally Debiased Time-aware Recommendation</b></font><br>
-Lei Wang, Chen Ma, Xian Wu, Zhaopeng Qiu, Yefeng Zheng, <font color="black"><b>Xu Chen</b></font><br>
+Lei Wang, Chen Ma, Xian Wu, Zhaopeng Qiu, Yefeng Zheng, <font color="black"><b>Xu Chen</b></font>*<br>
 <font color="black"><i>International World Wide Web Conference</i> (<b>TheWebConf</b>)</font>
 </p>
 <p class="ex1">
 <font color="black"><b>Understanding Human Preferences: Towards More Personalized Video to Text Generation</b></font><br>
-Yihan Wu, Ruihua Song, <font color="black"><b>Xu Chen</b></font>, Hao Jiang, Zhao Cao, Jin Yu<br> 
+Yihan Wu, Ruihua Song*, <font color="black"><b>Xu Chen</b></font>*, Hao Jiang, Zhao Cao, Jin Yu<br> 
 <font color="black"><i>International World Wide Web Conference</i> (<b>TheWebConf</b>)</font>
 </p>
 <p class="ex1">
 <font color="black"><b>Would You Like Your Data to Be Trained? A User Controllable Recommendation Framework</b></font><br>
-Lei Wang, <font color="black"><b>Xu Chen</b></font>, Zhenhua Dong, Quanyu Dai<br> 
+Lei Wang, <font color="black"><b>Xu Chen</b></font>*, Zhenhua Dong, Quanyu Dai<br> 
 <font color="black"><i>Thirty-Eighth AAAI Conference on Artificial Intelligence</i> (<b>AAAI</b>)</font>
 </p>
 <p class="ex1">
 <font color="black"><b>Soft Contrastive Sequential Recommendation</b></font><br>
-Yabin Zhang, Zhenlei Wang, Wenhui Yu, Lantao Hu, Peng Jiang, Kun Gai, <font color="black"><b>Xu Chen</b></font><br> 
+Yabin Zhang, Zhenlei Wang, Wenhui Yu, Lantao Hu, Peng Jiang, Kun Gai, <font color="black"><b>Xu Chen</b></font>*<br> 
 <font color="black"><i>ACM Transactions on Information Systems</i> (<b>TOIS</b>)</font>
 </p>
 <p class="ex2">
 <font color="black"><b>Distributional Fairness-aware Recommendation</b></font><br>
-Hao Yang, Xian Wu, Zhaopeng Qiu, Yefeng Zheng, and <font color="black"><b>Xu Chen</b></font><br>
+Hao Yang, Xian Wu, Zhaopeng Qiu, Yefeng Zheng, and <font color="black"><b>Xu Chen</b></font>*<br>
 <font color="black"><i>ACM Transactions on Information Systems</i> (<b>TOIS</b>)</font>
 </p>
 <!-- <p class="ex2">
@@ -137,63 +152,63 @@ Zexu Sun, <font color="black"><b>Xu Chen</b></font><br>
 </p>
 <p class="ex1">
 <font color="black"><b>Bayesian Active Causal Discovery with Multi-Fidelity Experiments</b></font><br>
-Zeyu Zhang, Chaozhuo Li, <font color="black"><b>Xu Chen</b></font>, Xing Xie<br> 
+Zeyu Zhang, Chaozhuo Li, <font color="black"><b>Xu Chen</b></font>*, Xing Xie<br> 
 <font color="black"><i>Conference on Neural Information Processing Systems</i> (<b>NeurIPS</b>)</font>
 </p>
 <p class="ex1">
 <font color="black"><b>Offline Imitation Learning with Variational Counterfactual Reasoning</b></font><br>
-Zexu Sun, Bowei He, Jinxin Liu, Shuai Zhang, <font color="black"><b>Xu Chen</b></font>, Chen Ma<br> 
+Zexu Sun, Bowei He, Jinxin Liu, Shuai Zhang, <font color="black"><b>Xu Chen</b></font>*, Chen Ma<br> 
 <font color="black"><i>Conference on Neural Information Processing Systems</i> (<b>NeurIPS</b>)</font>
 </p>
 <p class="ex1">
 <font color="black"><b>Hierarchical Invariant Learning for Domain Generalization Recommendation</b></font><br>
-Zeyu Zhang, Heyang Gao, Hao Yang, <font color="black"><b>Xu Chen</b></font><br> 
+Zeyu Zhang, Heyang Gao, Hao Yang, <font color="black"><b>Xu Chen</b></font>*<br> 
 <font color="black"><i>ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i> (<b>KDD</b>)</font>
 </p>
 <p class="ex1">
 <font color="black"><b>Recommendation with Causality enhanced Natural Language Explanations</b></font><br>
-Jingsen Zhang, <font color="black"><b>Xu Chen</b></font>, Jiakai Tang, Weiqi Shao, Quanyu Dai, Zhenhua Dong, Rui Zhang<br> 
+Jingsen Zhang, <font color="black"><b>Xu Chen</b></font>*, Jiakai Tang, Weiqi Shao, Quanyu Dai, Zhenhua Dong, Rui Zhang<br> 
 <font color="black"><i>International World Wide Web Conference</i> (<b>TheWebConf</b>)</font>
 </p>
 <p class="ex1">
 <font color="black"><b>Robust Recommendation with Adversarial Gaussian Data Augmentation</b></font><br>
-Zhenlei Wang, <font color="black"><b>Xu Chen</b></font><br> 
+Zhenlei Wang, <font color="black"><b>Xu Chen</b></font>*<br> 
 <font color="black"><i>International World Wide Web Conference</i> (<b>TheWebConf</b>)</font>
 </p>
 <p class="ex1">
 <font color="black"><b>Distributionally Robust Sequential Recommnedation.</b></font><br>
-Rui Zhou, Xian Wu, Zhaopeng Qiu, Yefeng Zheng, <font color="black"><b>Xu Chen</b></font><br>
+Rui Zhou, Xian Wu, Zhaopeng Qiu, Yefeng Zheng, <font color="black"><b>Xu Chen</b></font>*<br>
 <font color="black"><i>International ACM SIGIR Conference on Research and Development in Information Retrieval</i> (<b>SIGIR</b>)</font>
 </p>
 <p class="ex1">
 <font color="black"><b>Debiased Recommendation with User Feature Balancing</b></font><br>
-Mengyue Y, Guohao C, Furui L, Jiarui J, Zhenhua D, Xiuqiang H, Jianye H, Weiqi S, Jun W, <font color="black"><b>Xu Chen</b></font><br> 
+Mengyue Y, Guohao C, Furui L, Jiarui J, Zhenhua D, Xiuqiang H, Jianye H, Weiqi S, Jun W, <font color="black"><b>Xu Chen</b>*</font><br> 
 <font color="black"><i>ACM Transactions on Information Systems</i> (<b>TOIS</b>)</font>
 </p>
 <p class="ex1">
 <font color="black"><b>Sequential Recommendation with User Causal Behavior Discovery</b></font><br>
-Zhenlei Wang, <font color="black"><b>Xu Chen</b></font>, Zhenhua Dong, Quanyu Dai, Ji-Rong Wen<br>
+Zhenlei Wang, <font color="black"><b>Xu Chen</b></font>*, Zhenhua Dong, Quanyu Dai, Ji-Rong Wen<br>
 <font color="black"><i>International Conference on Data Engineering</i> (<b>ICDE</b>)</font>
 </p>
 <p class="ex1">
 <font color="black"><b>To Copy Rather Than Memorize: A Vertical Learning Paradigm for Knowledge Graph Completion</b></font><br>
-Rui Li, <font color="black"><b>Xu Chen</b></font>, Chaozhuo Li, Yanming Shen, Jianan Zhao, Yujing Wang, Weihao Han, Hao Sun, weiwei deng,
+Rui Li, <font color="black"><b>Xu Chen</b></font>*, Chaozhuo Li*, Yanming Shen, Jianan Zhao, Yujing Wang, Weihao Han, Hao Sun, weiwei deng,
 Qi Zhang and Xing Xie<br> 
 <font color="black"><i>Annual Meeting of the Association for Computational Linguistics</i> (<b>ACL</b>)</font>
 </p>
 <p class="ex1">
 <font color="black"><b>When Fairness meets Bias: a Debiased Framework for Fairness aware Top-N Recommendation</b></font><br>
-Jiakai Tang, Shiqi Shen, Zhipeng Wang, Zhi Gong, Jingsen Zhang and <font color="black"><b>Xu Chen</b></font><br> 
+Jiakai Tang, Shiqi Shen, Zhipeng Wang, Zhi Gong, Jingsen Zhang and <font color="black"><b>Xu Chen</b></font>*<br> 
 <font color="black"><i>ACM Conference on Recommender Systems</i> (<b>RecSys</b>)</font>
 </p>
 <p class="ex1">
 <font color="black"><b>Towards Robust Fairness-aware Recommendation</b></font><br>
-Hao Yang, Zhining Liu, Zeyu Zhang, Chenyi Zhuang and <font color="black"><b>Xu Chen</b></font><br> 
+Hao Yang, Zhining Liu, Zeyu Zhang, Chenyi Zhuang and <font color="black"><b>Xu Chen</b></font>*<br> 
 <font color="black"><i>ACM Conference on Recommender Systems</i> (<b>RecSys</b>)</font>
 </p>
 <p class="ex1">
 <font color="black"><b>Sequential Recommendation with User Evolving Preference Decomposition</b></font><br>
-Weiqi Shao, <font color="black"><b>Xu Chen</b></font>, Jiashu Zhao, Long Xia, Jingsen Zhang and Dawei Yin<br>
+Weiqi Shao, <font color="black"><b>Xu Chen</b></font>*, Jiashu Zhao, Long Xia, Jingsen Zhang and Dawei Yin<br>
 <font color="black"><i>International ACM SIGIR Conference on Information Retrieval in the Asia Pacific</i> (<b>SIGIR-AP, <font color="red">Best Paper Honorable Mention</font></b>) </font>
 </p>
 <p class="ex1">
@@ -203,7 +218,7 @@ Sirui Chen, Xiao Zhang, <font color="black"><b>Xu Chen</b></font>, Zhiyu Li, Yua
 </p>
 <p class="ex1">
 <font color="black"><b>Towards a More User-Friendly and Easy-to-Use Benchmark Library for Recommender Systems.</b></font><br>
-Lanling Xu, Zhen Tian, Gaowei Zhang, Junjie Zhang, Lei Wang, Bowen Zheng, Yifan Li, Jiakai Tang, Zeyu Zhang, Yupeng Hou, Xingyu Pan, Wayne Xin Zhao, <font color="black"><b>Xu Chen</b></font> and Ji-Rong Wen<br>
+Lanling Xu, Zhen Tian, Gaowei Zhang, Junjie Zhang, Lei Wang, Bowen Zheng, Yifan Li, Jiakai Tang, Zeyu Zhang, Yupeng Hou, Xingyu Pan, Wayne Xin Zhao*, <font color="black"><b>Xu Chen</b></font>* and Ji-Rong Wen<br>
 <font color="black"><i>International ACM SIGIR Conference on Research and Development in Information Retrieval</i> (<b>SIGIR resource</b>)</font>
 </p>
 <!-- <p class="ex1">
@@ -249,27 +264,27 @@ Zhiheng Zhang, Quanyu Dai, <font color="black"><b>Xu Chen</b></font>, Zhenhua Do
 <p class="ex1">
 <font color="black"><b>RecBole 2.0: Towards a More Up-to-Date Recommendation Library.</b></font><br>
 Wayne Xin Zhao, Yupeng Hou, Xingyu Pan, Chen Yang, Zeyu Zhang, Zihan Lin, Jingsen Zhang, Shuqing Bian, Jiakai
-Tang, Wenqi Sun, Yushuo Chen, Lanling Xu, Gaowei Zhang, Zhen Tian, Changxin Tian, Shanlei Mu, Xinyan Fan, <font color="black"><b>Xu Chen</b></font> and Ji-Rong Wen<br>
+Tang, Wenqi Sun, Yushuo Chen, Lanling Xu, Gaowei Zhang, Zhen Tian, Changxin Tian, Shanlei Mu, Xinyan Fan, <font color="black"><b>Xu Chen</b></font>* and Ji-Rong Wen<br>
 <font color="black"><i>Conference on Information and Knowledge Management</i> (<b>CIKM, resource, <font color="red">Best Resource Paper Runner Up</font></b>)</font><br>
 </p>
 <p class="ex1">
 <font color="black"><b>Unbiased Sequential Recommendation with Latent Confounders.</b></font><br>
-Zhenglei Wang, Shiqi Shen, Zhipeng Wang, Bo Chen, <font color="black"><b>Xu Chen</b></font>, Ji-Rong Wen<br>
+Zhenglei Wang, Shiqi Shen, Zhipeng Wang, Bo Chen, <font color="black"><b>Xu Chen</b></font>*, Ji-Rong Wen<br>
 <font color="black"><i>International World Wide Web Conference</i> (<b>TheWebConf</b>)</font>
 </p>
 <p class="ex1">
 <font color="black"><b>Sequential Recommendation with Decomposed Item Feature Routing.</b></font><br>
-Kun Lin, Zhenlei Wang, Shiqi Shen, Zhipeng Wang, Bo Chen, <font color="black"><b>Xu Chen</b></font><br>
+Kun Lin, Zhenlei Wang, Shiqi Shen, Zhipeng Wang, Bo Chen, <font color="black"><b>Xu Chen</b></font>*<br>
 <font color="black"><i>International World Wide Web Conference</i> (<b>TheWebConf</b>)</font>
 </p>
 <p class="ex1">
 <font color="black"><b>Generative Session-based Recommendation.</b></font><br>
-Zhidan Wang, Wenwen Ye, <font color="black"><b>Xu Chen</b></font>, Wenqiang Zhang, Zhenlei Wang, Lixin Zou, Weidong Liu.<br>
+Zhidan Wang, Wenwen Ye, <font color="black"><b>Xu Chen</b></font>*, Wenqiang Zhang, Zhenlei Wang, Lixin Zou, Weidong Liu.<br>
 <font color="black"><i>International World Wide Web Conference</i> (<b>TheWebConf</b>)</font>
 </p> 
 <p class="ex1">
 <font color="black"><b>Debiased Recommendation with Neural Stratification</b></font><br>
-Quanyu Dai, Zhenhua Dong, <font color="black"><b>Xu Chen</b></font><br> 
+Quanyu Dai, Zhenhua Dong, <font color="black"><b>Xu Chen</b></font>*<br> 
 <font color="black"><i>AI Open</i></font>
 </p>
 <p class="ex1">
@@ -306,27 +321,27 @@ Qian Cao, <font color="black"><b>Xu Chen</b></font>, Ruihua Song, Hao Jiang, Gua
 </p>
 <p class="ex1">
 <font color="black"><b>Visually Aware Recommendation with Aesthetic Features.</b></font><br>
-Wenhui Yu, Xiangnan He, Jian Pei, <font color="black"><b>Xu Chen</b></font>, Li Xiong, Jinfei Liu, Zheng Qin<br>
+Wenhui Yu, Xiangnan He, Jian Pei, <font color="black"><b>Xu Chen</b></font>*, Li Xiong, Jinfei Liu, Zheng Qin<br>
 <font color="black"><i>The International Journal on Very Large Data Bases</i> (<b>VLDBJ</b>)</font>
 </p>
 <p class="ex1">
 <font color="black"><b>Counterfactual Data-Augmented Sequential Recommendation.</b></font><br>
-Zhenlei Wang, Jingsen Zhang, Hongteng Xu, <font color="black"><b>Xu Chen</b></font>, Yongfeng Zhang, Wayne Xin Zhao, Ji-Rong Wen<br>
+Zhenlei Wang, Jingsen Zhang, Hongteng Xu, <font color="black"><b>Xu Chen</b></font>*, Yongfeng Zhang, Wayne Xin Zhao, Ji-Rong Wen<br>
 <font color="black"><i>International ACM SIGIR Conference on Research and Development in Information Retrieval</i> (<b>SIGIR</b>)</font>
 </p>
 <p class="ex1">
 <font color="black"><b>Top-N Recommendation with Counterfactual User Preference Simulation.</b></font><br>
-Mengyue Yang, Quanyu Dai, Zhenhua Dong, <font color="black"><b>Xu Chen</b></font>, Xiuqiang He, Jun Wang<br>
+Mengyue Yang, Quanyu Dai, Zhenhua Dong, <font color="black"><b>Xu Chen</b></font>*, Xiuqiang He, Jun Wang<br>
 <font color="black"><i>The Conference on Information and Knowledge Management</i> (<b>CIKM</b>)</font>
 </p>
 <p class="ex1">
 <font color="black"><b>Counterfactual Review-based Recommendation.</b></font><br>
-Kun Xiong, Wenwen Ye, <font color="black"><b>Xu Chen</b></font>, Yongfeng Zhang, Wayne Xin Zhao, Binbin Hu, Zhiqiang Zhang, Jun Zhou<br>
+Kun Xiong, Wenwen Ye, <font color="black"><b>Xu Chen</b></font>*, Yongfeng Zhang, Wayne Xin Zhao, Binbin Hu, Zhiqiang Zhang, Jun Zhou<br>
 <font color="black"><i>The Conference on Information and Knowledge Management</i> (<b>CIKM</b>)</font>
 </p>
 <p class="ex1">
 <font color="black"><b>Causally Attentive Collaborative Filtering.</b></font><br>
-Jingsen Zhang, <font color="black"><b>Xu Chen</b></font>, Wayne Xin Zhao<br>
+Jingsen Zhang, <font color="black"><b>Xu Chen</b></font>*, Wayne Xin Zhao<br>
 <font color="black"><i>The Conference on Information and Knowledge Management</i> (<b>CIKM, short</b>)</font>
 </p>
 <p class="ex1">
@@ -362,7 +377,7 @@ Yali Du, Zhicheng Ren, Bo Liu, Ziqi Liu, Vincent Moens, Jun Wang, <font color="b
 </p>
 <p class="ex1">
 <font color="black"><b>Time Matters: Sequential Recommendation with Complex Temporal Information.</b></font><br>
-Wenwen Ye, Shuaiqiang Wang, <font color="black"><b>Xu Chen</b></font>, Xuepeng Wang, Zheng Qin and Dawei Yin<br>
+Wenwen Ye, Shuaiqiang Wang, <font color="black"><b>Xu Chen</b></font>*, Xuepeng Wang, Zheng Qin and Dawei Yin<br>
 <font color="black"><i>International ACM SIGIR Conference on Research and Development in Information Retrieval</i> (<b>SIGIR</b>)</font>
 </p>
 <p class="ex1">
