@@ -87,17 +87,17 @@ Haoxuan Li, Chunyuan Zheng, Yanghao Xiao, Peng Wu, Zhi Geng, <font color="black"
 </p>
 <p class="ex1">
 <font color="black"><b>Towards Robust Recommendation via Decision Boundary-aware Graph Contrastive Learning</b></font><br>
-Jiakai Tang, Sunhao Dai, Zexu Sun, <font color="black"><b>Xu Chen</b></font>*, Jun Xu, Wenhui Yu, Lantao Hu, Peng Jiang, Han Li
+Jiakai Tang, Sunhao Dai, Zexu Sun, <font color="black"><b>Xu Chen</b></font>*, Jun Xu, Wenhui Yu, Lantao Hu, Peng Jiang, Han Li<br> 
 <font color="black"><i>ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i> (<b>KDD Research</b>)</font>
 </p>
 <p class="ex1">
 <font color="black"><b>Policy-Based Bayesian Active Causal Discovery with Deep Reinforcement Learning</b></font><br>
-Heyang Gao, Zexu Sun, Hao Yang, <font color="black"><b>Xu Chen</b></font>*
+Heyang Gao, Zexu Sun, Hao Yang, <font color="black"><b>Xu Chen</b></font>*<br> 
 <font color="black"><i>ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i> (<b>KDD Research</b>)</font>
 </p>
 <p class="ex1">
 <font color="black"><b>Natural Language Explainable Recommendation with Robustness Enhancement</b></font><br>
-Jingsen Zhang, Jiakai Tang, <font color="black"><b>Xu Chen</b></font>*, Wenhui Yu, Lantao Hu, Peng Jiang, Han Li
+Jingsen Zhang, Jiakai Tang, <font color="black"><b>Xu Chen</b></font>*, Wenhui Yu, Lantao Hu, Peng Jiang, Han Li<br> 
 <font color="black"><i>ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i> (<b>KDD Research</b>)</font>
 </p>
 <p class="ex1">
