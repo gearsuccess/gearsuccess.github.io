@@ -69,7 +69,7 @@ Xueyang Feng, Zhi-Yuan Chen, Yujia Qin, Yankai Lin*, <font color="black"><b>Xu C
 
 See https://scholar.google.com/citations?user=loPoqy0AAAAJ&hl=zh-CN
 
-<!-- 
+
 <p class="ex1">
 <font color="black"><b>In the year of 2024:</b></font>
 </p>
@@ -496,7 +496,7 @@ Qingyao Ai, Yongfeng Zhang, Keping Bi, <font color="black"><b>Xu Chen</b></font>
 <font color="black"><b>HLBPR: A Hybrid Local Bayesian Personal Ranking Method.</b></font><br>
 <font color="black"><b>Xu Chen</b></font>, Pengfei Wang, Zheng Qin, and Yongfeng Zhang<br>
 <font color="black"><i>International World Wide Web Conference</i> (<b>WWW, poster</b>)</font><br>
-</p>  -->
+</p>  
 
 
 
