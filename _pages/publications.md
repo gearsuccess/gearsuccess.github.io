@@ -67,8 +67,6 @@ Xueyang Feng, Zhi-Yuan Chen, Yujia Qin, Yankai Lin*, <font color="black"><b>Xu C
 </p>
 
 
-See https://scholar.google.com/citations?user=loPoqy0AAAAJ&hl=zh-CN
-
 
 <p class="ex1">
 <font color="black"><b>In the year of 2024:</b></font>
