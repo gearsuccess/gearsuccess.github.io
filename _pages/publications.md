@@ -269,7 +269,7 @@ Chen Xu, Jun Xu, <font color="black"><b>Xu Chen</b></font>, Zhenghua Dong and Ji
 <font color="black"><i>The Conference on Information and Knowledge Management</i> (<b>CIKM</b>)</font>
 </p>
 <p class="ex1">
-<font color="black"><b>RecBole 2.0: Towards a More Up-to-Date Recommendation Library.</b></font><br>
+<b><font color="red">[CCF B]</font></b> <font color="black"><b>RecBole 2.0: Towards a More Up-to-Date Recommendation Library.</b></font><br>
 Wayne Xin Zhao, Yupeng Hou, Xingyu Pan, Chen Yang, Zeyu Zhang, Zihan Lin, Jingsen Zhang, Shuqing Bian, Jiakai
 Tang, Wenqi Sun, Yushuo Chen, Lanling Xu, Gaowei Zhang, Zhen Tian, Changxin Tian, Shanlei Mu, Xinyan Fan, <font color="black"><b>Xu Chen</b></font>* and Ji-Rong Wen<br>
 <font color="black"><i>Conference on Information and Knowledge Management</i> (<b>CIKM, resource, <font color="red">Best Resource Paper Runner Up</font></b>)</font><br>
@@ -327,16 +327,15 @@ Juntao  Tan, Shuyuan  Xu, Yingqiang Ge, Yunqi Li, <font color="black"><b>Xu Chen
 <font color="black"><i>The Conference on Information and Knowledge Management</i> (<b>CIKM</b>)</font>
 </p>
 <p class="ex1">
+<b><font color="red">[CCF B]</font></b> <font color="black"><b>Causally Attentive Collaborative Filtering.</b></font><br>
+Jingsen Zhang, <font color="black"><b>Xu Chen</b></font>*, Wayne Xin Zhao<br>
+<font color="black"><i>The Conference on Information and Knowledge Management</i> (<b>CIKM, short</b>)</font>
+</p>
+<p class="ex2">
 <b><font color="red">[CCF C]</font></b> <font color="black"><b>Learning Correlated Communication Topology in Multi-Agent Reinforcement learning.</b></font><br>
 Yali Du, Zhicheng Ren, Bo Liu, Ziqi Liu, Vincent Moens, Jun Wang, <font color="black"><b>Xu Chen</b></font> and Haifeng Zhang.<br>
 <font color="black"><i>International Conference on Autonomous Agents and Multiagent Systems</i> (<b>AAMAS</b>)</font>
 </p>
-<p class="ex2">
-<font color="black"><b>Causally Attentive Collaborative Filtering.</b></font><br>
-Jingsen Zhang, <font color="black"><b>Xu Chen</b></font>*, Wayne Xin Zhao<br>
-<font color="black"><i>The Conference on Information and Knowledge Management</i> (<b>CIKM, short</b>)</font>
-</p>
-
 
 
 <p class="ex1">
@@ -363,7 +362,7 @@ Shuqing Bian, <font color="black"><b>Xu Chen</b></font>, Xin Zhao, Kun Zhou, Yup
 <font color="black"><i>The Conference on Information and Knowledge Management</i> (<b>CIKM</b>)</font>
 </p>
 <p class="ex2">
-<font color="black"><b>JIT2R: A Joint Framework for Item Tagging and Tag-based Recommendation.</b></font><br>
+<b><font color="red">[CCF A]</font></b> <font color="black"><b>JIT2R: A Joint Framework for Item Tagging and Tag-based Recommendation.</b></font><br>
 <font color="black"><b>Xu Chen</b></font>, Changying Du, Xiuqiang He and Jun Wang<br>
 <font color="black"><i>International ACM SIGIR Conference on Research and Development in Information Retrieval</i> (<b>SIGIR, short</b>)</font>
 </p>
@@ -395,16 +394,12 @@ Shuqing Bian, <font color="black"><b>Xu Chen</b></font>, Xin Zhao, Kun Zhou, Yup
 Wenhui Yu, Jinfei Liu, Jiann Pei, Li Xiong, <font color="black"><b>Xu Chen</b></font> and Zheng Qin<br>
 <font color="black"><i>IEEE Transactions on Knowledge and Data Engineering</i> (<b>TKDE</b>)</font>
 </p>
-<p class="ex1">
+<p class="ex2">
 <font color="black"><b>Dynamic News Recommendation with Hierarchical Attention Network.</b></font><br>
 Hui Zhang, <font color="black"><b>Xu Chen</b></font> and Shuai Ma<br>
 <font color="black"><i>International Conference on Data Mining</i> (<b>ICDM, short</b>)</font>
 </p>
-<p class="ex2">
-<font color="black"><b>Generating Natural Language Explanations for Recommendation.</b></font><br>
-Hanxiong Chen, <font color="black"><b>Xu Chen</b></font>, Shaoyun Shi and Yongfeng Zhang<br>
-<font color="black"><i>International ACM SIGIR Conference on Research and Development in Information Retrieval</i> (<b>SIGIR, workshop</b>)</font>
-</p>
+
 
 
 <p class="ex1">
