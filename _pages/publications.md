@@ -245,16 +245,11 @@ Qi Zhang and Xing Xie<br>
 Lei Wang, <font color="black"><b>Xu Chen</b></font>*, Zhenhua Dong, Quanyu Dai<br> 
 <font color="black"><i>Thirty-Eighth AAAI Conference on Artificial Intelligence</i> (<b>AAAI 2024</b>)</font>
 </p>
-<p class="ex1">
+<p class="ex2">
 <b><font color="red">[CCF A]</font></b> <font color="black"><b>Dynamic Explainable Recommendation based on Neural Attentive Models.</b></font><br>
 <font color="black"><b>Xu Chen</b></font>, Yongfeng Zhang, Zheng Qin<br>
 <font color="black"><i>Association for the Advancement of Artificial Intelligence</i> (<b>AAAI 2019</b>)</font>
 </p>
-<p class="ex2">
-<b><font color="red">[CCF A]</font></b> <font color="black"><b>Data Augmented Sequential Recommendation based on Counterfactual Thinking.</b></font><br>
-<font color="black"><b>Xu Chen</b></font>, Zhenlei Wang, Hongteng Xu, Jingsen Zhang, Yongfeng Zhang, Wayne Xin Zhao and Ji-Rong Wen<br>
-<font color="black"><i>IEEE Transactions on Knowledge and Data Engineering</i> (<b>TKDE 2022</b>)</font>
-</p> 
 
 
 
