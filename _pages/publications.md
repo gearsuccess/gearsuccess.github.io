@@ -72,7 +72,7 @@ Xueyang Feng, Zhi-Yuan Chen, Yujia Qin, Yankai Lin*, <font color="black"><b>Xu C
 <font color="black"><b>In the year of 2024:</b></font>
 </p>
 <p class="ex1">
-<font color="black"><b>Relaxing the Accurate Imputation Assumption in Doubly Robust Learning for Debiased Recommendation</b></font><br>
+<b><font color="red">[CCF A]</font></b> <font color="black"><b>Relaxing the Accurate Imputation Assumption in Doubly Robust Learning for Debiased Recommendation</b></font><br>
 Haoxuan Li, Chunyuan Zh, Shuyi W, Kunhan W, Hao W, Peng W, Zhi Gen, <font color="black"><b>Xu Chen</b></font>*, Xiao-Hua Zhou*<br>
 <font color="black"><i>International Conference on Machine Learning</i> (<b>ICML</b>)</font>
 </p>
