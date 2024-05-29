@@ -61,7 +61,7 @@ Yongfeng Zhang and <font color="black"><b>Xu Chen</b></font>.<br>
 </p>
 
 
-<p class="ex3">
+<p class="ex1">
 <font color="black"><b>Preprint Papers:</b></font>
 </p>
 <p class="ex2">
