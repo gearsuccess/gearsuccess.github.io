@@ -234,12 +234,6 @@ Zhiheng Zhang, Quanyu Dai, <font color="black"><b>Xu Chen</b></font>, Zhenhua Do
 <font color="black"><i>IEEE Transactions on Knowledge and Data Engineering</i> (<b>TKDE</b>)</font>
 </p> 
 <p class="ex1">
-<font color="black"><b>RecBole 2.0: Towards a More Up-to-Date Recommendation Library.</b></font><br>
-Wayne Xin Zhao, Yupeng Hou, Xingyu Pan, Chen Yang, Zeyu Zhang, Zihan Lin, Jingsen Zhang, Shuqing Bian, Jiakai
-Tang, Wenqi Sun, Yushuo Chen, Lanling Xu, Gaowei Zhang, Zhen Tian, Changxin Tian, Shanlei Mu, Xinyan Fan, <font color="black"><b>Xu Chen</b></font>* and Ji-Rong Wen<br>
-<font color="black"><i>Conference on Information and Knowledge Management</i> (<b>CIKM, resource, <font color="red">Best Resource Paper Runner Up</font></b>)</font><br>
-</p>
-<p class="ex1">
 <b><font color="red">[CCF A]</font></b> <font color="black"><b>Unbiased Sequential Recommendation with Latent Confounders.</b></font><br>
 Zhenglei Wang, Shiqi Shen, Zhipeng Wang, Bo Chen, <font color="black"><b>Xu Chen</b></font>*, Ji-Rong Wen<br>
 <font color="black"><i>International World Wide Web Conference</i> (<b>TheWebConf</b>)</font>
@@ -255,14 +249,19 @@ Zhidan Wang, Wenwen Ye, <font color="black"><b>Xu Chen</b></font>*, Wenqiang Zha
 <font color="black"><i>International World Wide Web Conference</i> (<b>TheWebConf</b>)</font>
 </p> 
 <p class="ex1">
-<font color="black"><b>Debiased Recommendation with Neural Stratification</b></font><br>
-Quanyu Dai, Zhenhua Dong, <font color="black"><b>Xu Chen</b></font>*<br> 
-<font color="black"><i>AI Open</i></font>
-</p>
-<p class="ex1">
 <b><font color="red">[CCF A]</font></b> <font color="black"><b>Explainable Legal Case Matching via Inverse Optimal Transport-based Rationale Extraction.</b></font><br>
 Weijie Yu, Zhongxiang Sun, Jun Xu, Zhenhua Dong, <font color="black"><b>Xu Chen</b></font>, Hongteng Xu, Ji-Rong Wen<br>
 <font color="black"><i>International ACM SIGIR Conference on Research and Development in Information Retrieval</i> (<b>SIGIR</b>)</font>
+</p>
+<p class="ex1">
+<b><font color="red">[CCF A]</font></b> <font color="black"><b>Learning to Identify Top Elo Ratings: A Dueling Bandits Approach.</b></font><br>
+Xue Yan, Yali Du, Binxin Ru, Jun Wang, Haifeng Zhang, <font color="black"><b>Xu Chen</b></font>.<br>
+<font color="black"><i>Association for the Advancement of Artificial Intelligence</i> (<b>AAAI</b>)</font>
+</p>
+<p class="ex1">
+<b><font color="red">[CCF A]</font></b> <font color="black"><b>Multi-Modal Experience Inspired AI Creation.</b></font><br>
+Qian Cao, <font color="black"><b>Xu Chen</b></font>, Ruihua Song, Hao Jiang, Guang Yang, Zhao Cao.<br>
+<font color="black"><i>ACM Multimedia</i> (<b>MM</b>)</font>
 </p>
 <p class="ex1">
 <b><font color="red">[CCF B]</font></b> <font color="black"><b>Dually Enhanced Propensity Score Estimation in Sequential Recommendation.</b></font><br>
@@ -270,14 +269,15 @@ Chen Xu, Jun Xu, <font color="black"><b>Xu Chen</b></font>, Zhenghua Dong and Ji
 <font color="black"><i>The Conference on Information and Knowledge Management</i> (<b>CIKM</b>)</font>
 </p>
 <p class="ex1">
-<b><font color="red">[CCF A]</font></b> <font color="black"><b>Learning to Identify Top Elo Ratings: A Dueling Bandits Approach.</b></font><br>
-Xue Yan, Yali Du, Binxin Ru, Jun Wang, Haifeng Zhang, <font color="black"><b>Xu Chen</b></font>.<br>
-<font color="black"><i>Association for the Advancement of Artificial Intelligence</i> (<b>AAAI</b>)</font>
+<font color="black"><b>RecBole 2.0: Towards a More Up-to-Date Recommendation Library.</b></font><br>
+Wayne Xin Zhao, Yupeng Hou, Xingyu Pan, Chen Yang, Zeyu Zhang, Zihan Lin, Jingsen Zhang, Shuqing Bian, Jiakai
+Tang, Wenqi Sun, Yushuo Chen, Lanling Xu, Gaowei Zhang, Zhen Tian, Changxin Tian, Shanlei Mu, Xinyan Fan, <font color="black"><b>Xu Chen</b></font>* and Ji-Rong Wen<br>
+<font color="black"><i>Conference on Information and Knowledge Management</i> (<b>CIKM, resource, <font color="red">Best Resource Paper Runner Up</font></b>)</font><br>
 </p>
 <p class="ex2">
-<b><font color="red">[CCF A]</font></b> <font color="black"><b>Multi-Modal Experience Inspired AI Creation.</b></font><br>
-Qian Cao, <font color="black"><b>Xu Chen</b></font>, Ruihua Song, Hao Jiang, Guang Yang, Zhao Cao.<br>
-<font color="black"><i>ACM Multimedia</i> (<b>MM</b>)</font>
+<font color="black"><b>Debiased Recommendation with Neural Stratification</b></font><br>
+Quanyu Dai, Zhenhua Dong, <font color="black"><b>Xu Chen</b></font>*<br> 
+<font color="black"><i>AI Open</i></font>
 </p>
 
 
@@ -426,19 +426,19 @@ Wenhui Yu, Huidi Zhang, Xiangnan He, <font color="black"><b>Xu Chen</b></font>, 
 <font color="black"><i>International World Wide Web Conference</i> (<b>TheWebConf, <font color="red">Best Paper Honorable Mention</font></b>)</font><br>
 </p>
 <p class="ex1">
-<font color="black"><b>Learning Heterogeneous Knowledge Base Embeddings for Explainable Recommendation.</b></font><br>
-Qingyao Ai, Vahid Azizi, <font color="black"><b>Xu Chen</b></font> and Yongfeng Zhang<br>
-<font color="black"><i>Algorithms Journal</i></font>. 
-</p>
-<p class="ex1">
 <b><font color="red">[CCF C]</font></b> <font color="black"><b>Benefits from Superposed Hawkes Processes.</b></font><br>
 Hongteng Xu, Dixin Luo, <font color="black"><b>Xu Chen</b></font> and Lawrence Carin<br>
 <font color="black"><i>Artificial Intelligence and Statistics Conference</i> (<b>AISTATS</b>)</font>. 
 </p>
-<p class="ex2">
+<p class="ex1">
 <b><font color="red">[CCF B]</font></b> <font color="black"><b>Joint Representation Learning of Cross-lingual Words and Entities via Attentive Distant Supervision.</b></font><br>
 Yixin Cao, Lei Hou, Juanzi Li, Zhiyuan Liu, Chengjiang Li, <font color="black"><b>Xu Chen</b></font> and Tiansi Dong<br>
 <font color="black"><i>Empirical Methods in Natural Language Processing</i> (<b>EMNLP</b>)</font>. 
+</p>
+<p class="ex2">
+<font color="black"><b>Learning Heterogeneous Knowledge Base Embeddings for Explainable Recommendation.</b></font><br>
+Qingyao Ai, Vahid Azizi, <font color="black"><b>Xu Chen</b></font> and Yongfeng Zhang<br>
+<font color="black"><i>Algorithms Journal</i></font>. 
 </p>
 
 
@@ -456,14 +456,14 @@ Yongfeng Zhang, Qingyao Ai, <font color="black"><b>Xu Chen</b></font> and W. Bru
 <font color="black"><i>The Conference on Information and Knowledge Management</i> (<b>CIKM</b>)</font>
 </p>
 <p class="ex1">
-<font color="black"><b>An Explainable Probabilistic Local Matrix Factorization by Leveraging User Reviews.</b></font><br>
-<font color="black"><b>Xu Chen</b></font>, Yongfeng Zhang, Xin Zhao, Wenwen Ye and Zheng Qin<br>
-<font color="black"><i>Asia Information Retrieval Societies Conference</i> (<b>AIRS</b>)</font>
+<b><font color="red">[CCF A]</font></b> <font color="black"><b>Bridge Text and Knowledge by Learning Multi-Prototype Entity Mention Embedding.</b></font><br>
+Yixin Cao, Lifu Huang, Heng Ji, <font color="black"><b>Xu Chen</b></font> and Juanzi Li<br>
+<font color="black"><i>Annual Meeting of the Association for Computational Linguistics</i> (<b>ACL</b>)</font>
 </p>
 <p class="ex1">
-<font color="black"><b>A Collaborative Model for Rating Prediction by Leveraging Reviews and Images.</b></font><br>
-Wenwen Ye, Yongfeng Zhang, Xin Zhao, <font color="black"><b>Xu Chen</b></font> and Zheng Qin<br>
-<font color="black"><i>Asia Information Retrieval Societies Conference</i> (<b>AIRS, <font color="red">Best Paper Award</font></b>)</font><br>
+<b><font color="red">[CCF A]</font></b> <font color="black"><b>Learning a Hierarchical Embedding Model for Personalized Product Search.</b></font><br>
+Qingyao Ai, Yongfeng Zhang, Keping Bi, <font color="black"><b>Xu Chen</b></font> and Bruce Croft<br>
+<font color="black"><i>International ACM SIGIR Conference on Research and Development in Information Retrieval</i> (<b>SIGIR</b>)</font>
 </p>
 <p class="ex1">
 <b><font color="red">[CCF B]</font></b> <font color="black"><b>Fast Algorithm of Pareto Optimal Group-based Skyline.</b></font><br>
@@ -471,14 +471,14 @@ Wenhui Yu, Zheng Qin, Jinfei Liu, Li Xiong, <font color="black"><b>Xu Chen</b></
 <font color="black"><i>The Conference on Information and Knowledge Management</i> (<b>CIKM</b>)</font>
 </p>
 <p class="ex1">
-<b><font color="red">[CCF A]</font></b> <font color="black"><b>Bridge Text and Knowledge by Learning Multi-Prototype Entity Mention Embedding.</b></font><br>
-Yixin Cao, Lifu Huang, Heng Ji, <font color="black"><b>Xu Chen</b></font> and Juanzi Li<br>
-<font color="black"><i>Annual Meeting of the Association for Computational Linguistics</i> (<b>ACL</b>)</font>
+<font color="black"><b>An Explainable Probabilistic Local Matrix Factorization by Leveraging User Reviews.</b></font><br>
+<font color="black"><b>Xu Chen</b></font>, Yongfeng Zhang, Xin Zhao, Wenwen Ye and Zheng Qin<br>
+<font color="black"><i>Asia Information Retrieval Societies Conference</i> (<b>AIRS</b>)</font>
 </p>
 <p class="ex2">
-<b><font color="red">[CCF A]</font></b> <font color="black"><b>Learning a Hierarchical Embedding Model for Personalized Product Search.</b></font><br>
-Qingyao Ai, Yongfeng Zhang, Keping Bi, <font color="black"><b>Xu Chen</b></font> and Bruce Croft<br>
-<font color="black"><i>International ACM SIGIR Conference on Research and Development in Information Retrieval</i> (<b>SIGIR</b>)</font>
+<font color="black"><b>A Collaborative Model for Rating Prediction by Leveraging Reviews and Images.</b></font><br>
+Wenwen Ye, Yongfeng Zhang, Xin Zhao, <font color="black"><b>Xu Chen</b></font> and Zheng Qin<br>
+<font color="black"><i>Asia Information Retrieval Societies Conference</i> (<b>AIRS, <font color="red">Best Paper Award</font></b>)</font><br>
 </p>
 
 
