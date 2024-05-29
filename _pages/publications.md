@@ -312,11 +312,6 @@ Kun Xiong, Wenwen Ye, <font color="black"><b>Xu Chen</b></font>*, Yongfeng Zhang
 <font color="black"><i>The Conference on Information and Knowledge Management</i> (<b>CIKM</b>)</font>
 </p>
 <p class="ex1">
-<b><font color="red">[CCF B]</font></b> <font color="black"><b>Causally Attentive Collaborative Filtering.</b></font><br>
-Jingsen Zhang, <font color="black"><b>Xu Chen</b></font>*, Wayne Xin Zhao<br>
-<font color="black"><i>The Conference on Information and Knowledge Management</i> (<b>CIKM, short</b>)</font>
-</p>
-<p class="ex1">
 <b><font color="red">[CCF A]</font></b> <font color="black"><b>Estimating alpha-Rank from A Few Entries with Low Rank Matrix Completion.</b></font><br>
 Yali Du, Xue Yan, <font color="black"><b>Xu Chen</b></font>, Haifeng Zhang, Jun Wang<br>
 <font color="black"><i>International Conference on Machine Learning</i> (<b>ICML</b>)</font>
@@ -331,10 +326,15 @@ Shuqing Bian, Wayne Xin Zhao, Kun Zhou, <font color="black"><b>Xu Chen</b></font
 Juntao  Tan, Shuyuan  Xu, Yingqiang Ge, Yunqi Li, <font color="black"><b>Xu Chen</b></font>, Yongfeng Zhang<br>
 <font color="black"><i>The Conference on Information and Knowledge Management</i> (<b>CIKM</b>)</font>
 </p>
-<p class="ex2">
+<p class="ex1">
 <b><font color="red">[CCF C]</font></b> <font color="black"><b>Learning Correlated Communication Topology in Multi-Agent Reinforcement learning.</b></font><br>
 Yali Du, Zhicheng Ren, Bo Liu, Ziqi Liu, Vincent Moens, Jun Wang, <font color="black"><b>Xu Chen</b></font> and Haifeng Zhang.<br>
 <font color="black"><i>International Conference on Autonomous Agents and Multiagent Systems</i> (<b>AAMAS</b>)</font>
+</p>
+<p class="ex2">
+<font color="black"><b>Causally Attentive Collaborative Filtering.</b></font><br>
+Jingsen Zhang, <font color="black"><b>Xu Chen</b></font>*, Wayne Xin Zhao<br>
+<font color="black"><i>The Conference on Information and Knowledge Management</i> (<b>CIKM, short</b>)</font>
 </p>
 
 
@@ -353,19 +353,19 @@ Wenwen Ye, Shuaiqiang Wang, <font color="black"><b>Xu Chen</b></font>*, Xuepeng 
 <font color="black"><i>International ACM SIGIR Conference on Research and Development in Information Retrieval</i> (<b>SIGIR</b>)</font>
 </p>
 <p class="ex1">
-<font color="black"><b>JIT2R: A Joint Framework for Item Tagging and Tag-based Recommendation.</b></font><br>
-<font color="black"><b>Xu Chen</b></font>, Changying Du, Xiuqiang He and Jun Wang<br>
-<font color="black"><i>International ACM SIGIR Conference on Research and Development in Information Retrieval</i> (<b>SIGIR, short</b>)</font>
-</p>
-<p class="ex1">
 <b><font color="red">[CCF B]</font></b> <font color="black"><b>CAFE: Coarse-to-Fine Knowledge Graph Reasoning for E-Commerce Recommendation.</b></font><br>
 Yikun Xian, Zuohui Fu, Handong Zhao, Yingqiang Ge, <font color="black"><b>Xu Chen</b></font>, Qiaoying Huang, Shijie Geng, Zhou Qin, Gerard de Melo, S. Muthukrishnan and Yongfeng Zhang<br>
 <font color="black"><i>The Conference on Information and Knowledge Management</i> (<b>CIKM</b>)</font>
 </p>
-<p class="ex2">
+<p class="ex1">
 <b><font color="red">[CCF B]</font></b> <font color="black"><b>Learning to Match Jobs with Resumes from Sparse Interaction Data using Multi-View Co-Teaching Network.</b></font><br>
 Shuqing Bian, <font color="black"><b>Xu Chen</b></font>, Xin Zhao, Kun Zhou, Yupeng Hou, Yang Song, Tao Zhang and Ji-Rong Wen<br>
 <font color="black"><i>The Conference on Information and Knowledge Management</i> (<b>CIKM</b>)</font>
+</p>
+<p class="ex2">
+<font color="black"><b>JIT2R: A Joint Framework for Item Tagging and Tag-based Recommendation.</b></font><br>
+<font color="black"><b>Xu Chen</b></font>, Changying Du, Xiuqiang He and Jun Wang<br>
+<font color="black"><i>International ACM SIGIR Conference on Research and Development in Information Retrieval</i> (<b>SIGIR, short</b>)</font>
 </p>
 
 
