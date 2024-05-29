@@ -71,6 +71,8 @@ Xueyang Feng, Zhi-Yuan Chen, Yujia Qin, Yankai Lin*, <font color="black"><b>Xu C
 </p>
 
 
+
+<!-- 
 <p class="ex3">
 <font color="black"><b>Selected Papers (see <a href=" http://ai-engine-lab.com/"><font color="blue">AI-Engine Lab</font></a> for more details):</b></font>
 </p>
@@ -249,7 +251,7 @@ Lei Wang, <font color="black"><b>Xu Chen</b></font>*, Zhenhua Dong, Quanyu Dai<b
 <b><font color="red">[CCF A]</font></b> <font color="black"><b>Dynamic Explainable Recommendation based on Neural Attentive Models.</b></font><br>
 <font color="black"><b>Xu Chen</b></font>, Yongfeng Zhang, Zheng Qin<br>
 <font color="black"><i>Association for the Advancement of Artificial Intelligence</i> (<b>AAAI 2019</b>)</font>
-</p>
+</p> -->
 
 
 
@@ -266,7 +268,7 @@ Lei Wang, <font color="black"><b>Xu Chen</b></font>*, Zhenhua Dong, Quanyu Dai<b
 
 
 
-<!-- <p class="ex1">
+<p class="ex1">
 <font color="black"><b>In the year of 2024:</b></font>
 </p>
 <p class="ex1">
@@ -687,7 +689,7 @@ Wenwen Ye, Yongfeng Zhang, Xin Zhao, <font color="black"><b>Xu Chen</b></font> a
 <font color="black"><b>HLBPR: A Hybrid Local Bayesian Personal Ranking Method.</b></font><br>
 <font color="black"><b>Xu Chen</b></font>, Pengfei Wang, Zheng Qin, and Yongfeng Zhang<br>
 <font color="black"><i>International World Wide Web Conference</i> (<b>WWW, poster</b>)</font><br>
-</p>   -->
+</p> 
 
 
 
