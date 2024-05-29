@@ -82,7 +82,7 @@ Rui Li, Chaozhuo Li, Yanming Shen, Zeyu Zhang, <font color="black"><b>Xu Chen</b
 <font color="black"><i>International Conference on Machine Learning</i> (<b>ICML</b>)</font>
 </p>
 <p class="ex1">
-</b> <font color="black"><b>Debiased Collaborative Filtering with Kernel-Based Causal Balancing</b></font><br>
+<font color="black"><b>Debiased Collaborative Filtering with Kernel-Based Causal Balancing</b></font><br>
 Haoxuan Li, Chunyuan Zheng, Yanghao Xiao, Peng Wu, Zhi Geng, <font color="black"><b>Xu Chen</b></font>*, Peng Cui<br> 
 <font color="black"><i>International Conference on Learning Representations</i> (<b>ICLR spotlight 5.0%</b>)</font>
 </p>
