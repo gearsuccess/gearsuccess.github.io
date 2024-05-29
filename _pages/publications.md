@@ -19,7 +19,7 @@ p.ex2 {
 }
 p.ex3 {
   margin-bottom: 10px;
-  font-size:20px;
+  font-size:19px;
 }
 </style>
 
@@ -61,7 +61,7 @@ Yongfeng Zhang and <font color="black"><b>Xu Chen</b></font>.<br>
 </p>
 
 
-<p class="ex1">
+<p class="ex3">
 <font color="black"><b>Preprint Papers:</b></font>
 </p>
 <p class="ex2">
@@ -268,7 +268,7 @@ Lei Wang, <font color="black"><b>Xu Chen</b></font>*, Zhenhua Dong, Quanyu Dai<b
 
 
 
-<p class="ex1">
+<p class="ex3">
 <font color="black"><b>In the year of 2024:</b></font>
 </p>
 <p class="ex1">
@@ -329,7 +329,7 @@ Hao Yang, Xian Wu, Zhaopeng Qiu, Yefeng Zheng, and <font color="black"><b>Xu Che
 
 
 
-<p class="ex1">
+<p class="ex3">
 <font color="black"><b>In the year of 2023:</b></font>
 </p>
 <p class="ex1">
@@ -420,7 +420,7 @@ Zhiheng Zhang, Quanyu Dai, <font color="black"><b>Xu Chen</b></font>, Zhenhua Do
 </p>
 
 
-<p class="ex1">
+<p class="ex3">
 <font color="black"><b>In the year of 2022:</b></font>
 </p>
 <p class="ex1">
@@ -483,7 +483,7 @@ Quanyu Dai, Zhenhua Dong, <font color="black"><b>Xu Chen</b></font>*<br>
 
 
 
-<p class="ex1">
+<p class="ex3">
 <font color="black"><b>In the year of 2021:</b></font>
 </p>
 <p class="ex1">
@@ -538,7 +538,7 @@ Yali Du, Zhicheng Ren, Bo Liu, Ziqi Liu, Vincent Moens, Jun Wang, <font color="b
 </p>
 
 
-<p class="ex1">
+<p class="ex3">
 <font color="black"><b>In the year of 2020:</b></font>
 </p>
 <p class="ex1">
@@ -571,7 +571,7 @@ Shuqing Bian, <font color="black"><b>Xu Chen</b></font>, Xin Zhao, Kun Zhou, Yup
 
 
 
-<p class="ex1">
+<p class="ex3">
 <font color="black"><b>In the year of 2019:</b></font>
 </p>
 <p class="ex1">
@@ -602,7 +602,7 @@ Hui Zhang, <font color="black"><b>Xu Chen</b></font> and Shuai Ma<br>
 
 
 
-<p class="ex1">
+<p class="ex3">
 <font color="black"><b>In the year of 2018:</b></font>
 </p>
 <p class="ex1">
@@ -637,7 +637,7 @@ Qingyao Ai, Vahid Azizi, <font color="black"><b>Xu Chen</b></font> and Yongfeng 
 </p>
 
 
-<p class="ex1">
+<p class="ex3">
 <font color="black"><b>In the year of 2017:</b></font>
 </p>
 <p class="ex1">
@@ -677,7 +677,7 @@ Wenwen Ye, Yongfeng Zhang, Xin Zhao, <font color="black"><b>Xu Chen</b></font> a
 </p>
 
 
-<p class="ex1">
+<p class="ex3">
 <font color="black"><b>In the year of 2016:</b></font>
 </p>
 <p class="ex1">
