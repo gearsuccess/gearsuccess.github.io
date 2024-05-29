@@ -19,7 +19,7 @@ p.ex2 {
 }
 p.ex3 {
   margin-bottom: 10px;
-  font-size:25px;
+  font-size:20px;
 }
 </style>
 
