@@ -77,52 +77,52 @@ Haoxuan Li, Chunyuan Zh, Shuyi W, Kunhan W, Hao W, Peng W, Zhi Gen, <font color=
 <font color="black"><i>International Conference on Machine Learning</i> (<b>ICML</b>)</font>
 </p>
 <p class="ex1">
-<font color="black"><b>Generalizing Knowledge Graph Embedding with Universal Orthogonal Parameterization</b></font><br>
+<b><font color="red">[CCF A]</font></b> <font color="black"><b>Generalizing Knowledge Graph Embedding with Universal Orthogonal Parameterization</b></font><br>
 Rui Li, Chaozhuo Li, Yanming Shen, Zeyu Zhang, <font color="black"><b>Xu Chen</b></font>*<br>
 <font color="black"><i>International Conference on Machine Learning</i> (<b>ICML</b>)</font>
 </p>
 <p class="ex1">
-<font color="black"><b>Debiased Collaborative Filtering with Kernel-Based Causal Balancing</b></font><br>
+<b><font color="red">[CCF A]</font></b> <font color="black"><b>Debiased Collaborative Filtering with Kernel-Based Causal Balancing</b></font><br>
 Haoxuan Li, Chunyuan Zheng, Yanghao Xiao, Peng Wu, Zhi Geng, <font color="black"><b>Xu Chen</b></font>*, Peng Cui<br> 
 <font color="black"><i>International Conference on Learning Representations</i> (<b>ICLR spotlight 5.0%</b>)</font>
 </p>
 <p class="ex1">
-<font color="black"><b>Towards Robust Recommendation via Decision Boundary-aware Graph Contrastive Learning</b></font><br>
+<b><font color="red">[CCF A]</font></b> <font color="black"><b>Towards Robust Recommendation via Decision Boundary-aware Graph Contrastive Learning</b></font><br>
 Jiakai Tang, Sunhao Dai, Zexu Sun, <font color="black"><b>Xu Chen</b></font>*, Jun Xu, Wenhui Yu, Lantao Hu, Peng Jiang, Han Li<br> 
 <font color="black"><i>ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i> (<b>KDD Research</b>)</font>
 </p>
 <p class="ex1">
-<font color="black"><b>Policy-Based Bayesian Active Causal Discovery with Deep Reinforcement Learning</b></font><br>
+<b><font color="red">[CCF A]</font></b> <font color="black"><b>Policy-Based Bayesian Active Causal Discovery with Deep Reinforcement Learning</b></font><br>
 Heyang Gao, Zexu Sun, Hao Yang, <font color="black"><b>Xu Chen</b></font>*<br> 
 <font color="black"><i>ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i> (<b>KDD Research</b>)</font>
 </p>
 <p class="ex1">
-<font color="black"><b>Natural Language Explainable Recommendation with Robustness Enhancement</b></font><br>
+<b><font color="red">[CCF A]</font></b> <font color="black"><b>Natural Language Explainable Recommendation with Robustness Enhancement</b></font><br>
 Jingsen Zhang, Jiakai Tang, <font color="black"><b>Xu Chen</b></font>*, Wenhui Yu, Lantao Hu, Peng Jiang, Han Li<br> 
 <font color="black"><i>ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i> (<b>KDD Research</b>)</font>
 </p>
 <p class="ex1">
-<font color="black"><b>Causally Debiased Time-aware Recommendation</b></font><br>
+<b><font color="red">[CCF A]</font></b> <font color="black"><b>Causally Debiased Time-aware Recommendation</b></font><br>
 Lei Wang, Chen Ma, Xian Wu, Zhaopeng Qiu, Yefeng Zheng, <font color="black"><b>Xu Chen</b></font>*<br>
 <font color="black"><i>International World Wide Web Conference</i> (<b>TheWebConf</b>)</font>
 </p>
 <p class="ex1">
-<font color="black"><b>Understanding Human Preferences: Towards More Personalized Video to Text Generation</b></font><br>
+<b><font color="red">[CCF A]</font></b> <font color="black"><b>Understanding Human Preferences: Towards More Personalized Video to Text Generation</b></font><br>
 Yihan Wu, Ruihua Song*, <font color="black"><b>Xu Chen</b></font>*, Hao Jiang, Zhao Cao, Jin Yu<br> 
 <font color="black"><i>International World Wide Web Conference</i> (<b>TheWebConf</b>)</font>
 </p>
 <p class="ex1">
-<font color="black"><b>Would You Like Your Data to Be Trained? A User Controllable Recommendation Framework</b></font><br>
+<b><font color="red">[CCF A]</font></b> <font color="black"><b>Would You Like Your Data to Be Trained? A User Controllable Recommendation Framework</b></font><br>
 Lei Wang, <font color="black"><b>Xu Chen</b></font>*, Zhenhua Dong, Quanyu Dai<br> 
 <font color="black"><i>Thirty-Eighth AAAI Conference on Artificial Intelligence</i> (<b>AAAI</b>)</font>
 </p>
 <p class="ex1">
-<font color="black"><b>Soft Contrastive Sequential Recommendation</b></font><br>
+<b><font color="red">[CCF A]</font></b> <font color="black"><b>Soft Contrastive Sequential Recommendation</b></font><br>
 Yabin Zhang, Zhenlei Wang, Wenhui Yu, Lantao Hu, Peng Jiang, Kun Gai, <font color="black"><b>Xu Chen</b></font>*<br> 
 <font color="black"><i>ACM Transactions on Information Systems</i> (<b>TOIS</b>)</font>
 </p>
 <p class="ex2">
-<font color="black"><b>Distributional Fairness-aware Recommendation</b></font><br>
+<b><font color="red">[CCF A]</font></b> <font color="black"><b>Distributional Fairness-aware Recommendation</b></font><br>
 Hao Yang, Xian Wu, Zhaopeng Qiu, Yefeng Zheng, and <font color="black"><b>Xu Chen</b></font>*<br>
 <font color="black"><i>ACM Transactions on Information Systems</i> (<b>TOIS</b>)</font>
 </p>
