@@ -17,6 +17,10 @@ p.ex2 {
   margin-bottom: 30px;
   font-size:15px;
 }
+p.ex3 {
+  margin-bottom: 10px;
+  font-size:25px;
+}
 </style>
 
 
@@ -57,7 +61,7 @@ Yongfeng Zhang and <font color="black"><b>Xu Chen</b></font>.<br>
 </p>
 
 
-<p class="ex1">
+<p class="ex3">
 <font color="black"><b>Preprint Papers:</b></font>
 </p>
 <p class="ex2">
@@ -67,7 +71,7 @@ Xueyang Feng, Zhi-Yuan Chen, Yujia Qin, Yankai Lin*, <font color="black"><b>Xu C
 </p>
 
 
-<p class="ex1">
+<p class="ex3">
 <font color="black"><b>Selected Papers (see <a href=" http://ai-engine-lab.com/"><font color="blue">AI-Engine Lab</font></a> for more details):</b></font>
 </p>
 <p class="ex1">
@@ -200,7 +204,7 @@ Wenwen Ye, Shuaiqiang Wang, <font color="black"><b>Xu Chen</b></font>*, Xuepeng 
 Yabin Zhang, Zhenlei Wang, Wenhui Yu, Lantao Hu, Peng Jiang, Kun Gai, <font color="black"><b>Xu Chen</b></font>*<br> 
 <font color="black"><i>ACM Transactions on Information Systems</i> (<b>TOIS 2024</b>)</font>
 </p>
-<p class="ex2">
+<p class="ex1">
 <b><font color="red">[CCF A]</font></b> <font color="black"><b>Distributional Fairness-aware Recommendation</b></font><br>
 Hao Yang, Xian Wu, Zhaopeng Qiu, Yefeng Zheng, and <font color="black"><b>Xu Chen</b></font>*<br>
 <font color="black"><i>ACM Transactions on Information Systems</i> (<b>TOIS 2024</b>)</font>
@@ -246,36 +250,12 @@ Lei Wang, <font color="black"><b>Xu Chen</b></font>*, Zhenhua Dong, Quanyu Dai<b
 <font color="black"><b>Xu Chen</b></font>, Yongfeng Zhang, Zheng Qin<br>
 <font color="black"><i>Association for the Advancement of Artificial Intelligence</i> (<b>AAAI 2019</b>)</font>
 </p>
-<p class="ex1">
+<p class="ex2">
 <b><font color="red">[CCF A]</font></b> <font color="black"><b>Data Augmented Sequential Recommendation based on Counterfactual Thinking.</b></font><br>
 <font color="black"><b>Xu Chen</b></font>, Zhenlei Wang, Hongteng Xu, Jingsen Zhang, Yongfeng Zhang, Wayne Xin Zhao and Ji-Rong Wen<br>
 <font color="black"><i>IEEE Transactions on Knowledge and Data Engineering</i> (<b>TKDE 2022</b>)</font>
 </p> 
-<p class="ex1">
-<b><font color="red">[CCF A]</font></b> <font color="black"><b>Soft Contrastive Sequential Recommendation</b></font><br>
-Yabin Zhang, Zhenlei Wang, Wenhui Yu, Lantao Hu, Peng Jiang, Kun Gai, <font color="black"><b>Xu Chen</b></font>*<br> 
-<font color="black"><i>ACM Transactions on Information Systems</i> (<b>TOIS 2024</b>)</font>
-</p>
-<p class="ex1">
-<b><font color="red">[CCF A]</font></b> <font color="black"><b>Distributional Fairness-aware Recommendation</b></font><br>
-Hao Yang, Xian Wu, Zhaopeng Qiu, Yefeng Zheng, and <font color="black"><b>Xu Chen</b></font>*<br>
-<font color="black"><i>ACM Transactions on Information Systems</i> (<b>TOIS 2024</b>)</font>
-</p>
-<p class="ex1">
-<b><font color="red">[CCF A]</font></b> <font color="black"><b>Debiased Recommendation with User Feature Balancing</b></font><br>
-Mengyue Y, Guohao C, Furui L, Jiarui J, Zhenhua D, Xiuqiang H, Jianye H, Weiqi S, Jun W, <font color="black"><b>Xu Chen</b>*</font><br> 
-<font color="black"><i>ACM Transactions on Information Systems</i> (<b>TOIS 2023</b>)</font>
-</p>
-<p class="ex1">
-<b><font color="red">[CCF A]</font></b> <font color="black"><b>Neural Feature-aware Recommendation with Signed Hypergraph Convolutional Network.</b></font><br>
-<font color="black"><b>Xu Chen</b></font>, Kun Xiong, Yongfeng Zhang, Long Xia, Dawei Yin and Jimmy Huang<br>
-<font color="black"><i>ACM Transactions on Information Systems</i> (<b>TOIS 2020</b>)</font>
-</p>
-<p class="ex2">
-<b><font color="red">[CCF A]</font></b> <font color="black"><b>Adversarial Distillation for Efficient Recommendation with External Knowledge.</b></font><br>
-<font color="black"><b>Xu Chen</b></font>, Yongfeng Zhang, Honteng Xu, Zheng Qin and Hongyuan Zha<br>
-<font color="black"><i>ACM Transactions on Information Systems</i> (<b>TOIS 2019</b>)</font>
-</p>
+
 
 
 
