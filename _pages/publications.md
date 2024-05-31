@@ -71,8 +71,9 @@ Xueyang Feng, Zhi-Yuan Chen, Yujia Qin, Yankai Lin*, <font color="black"><b>Xu C
 </p>
 
 
+see <a href=" http://ai-engine-lab.com/"><font color="blue">AI-Engine Lab</font></a> for more details
 
-
+<!-- 
 <p class="ex3">
 <font color="black"><b>Selected Papers (see <a href=" http://ai-engine-lab.com/"><font color="blue">AI-Engine Lab</font></a> for more details):</b></font>
 </p>
@@ -251,12 +252,7 @@ Lei Wang, <font color="black"><b>Xu Chen</b></font>*, Zhenhua Dong, Quanyu Dai<b
 <b><font color="red">[AAAI CCF A]</font></b> <font color="black"><b>Dynamic Explainable Recommendation based on Neural Attentive Models.</b></font><br>
 <font color="black"><b>Xu Chen</b></font>, Yongfeng Zhang, Zheng Qin<br>
 <font color="black"><i>Association for the Advancement of Artificial Intelligence</i> (<b>AAAI 2019</b>)</font>
-</p> 
-
-
-
-
-
+</p>  -->
 
 
 
