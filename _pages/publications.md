@@ -71,7 +71,7 @@ Xueyang Feng, Zhi-Yuan Chen, Yujia Qin, Yankai Lin*, <font color="black"><b>Xu C
 </p>
 
 
-see <a href=" http://ai-engine-lab.com/"><font color="blue">AI-Engine Lab</font></a> for more details
+<!-- see <a href=" http://ai-engine-lab.com/"><font color="blue">AI-Engine Lab</font></a> for more details -->
 
 <!-- 
 <p class="ex3">
@@ -262,8 +262,6 @@ Lei Wang, <font color="black"><b>Xu Chen</b></font>*, Zhenhua Dong, Quanyu Dai<b
 
 
 
-
-<!-- 
 <p class="ex3">
 <font color="black"><b>In the year of 2024:</b></font>
 </p>
@@ -685,7 +683,7 @@ Wenwen Ye, Yongfeng Zhang, Xin Zhao, <font color="black"><b>Xu Chen</b></font> a
 <font color="black"><b>HLBPR: A Hybrid Local Bayesian Personal Ranking Method.</b></font><br>
 <font color="black"><b>Xu Chen</b></font>, Pengfei Wang, Zheng Qin, and Yongfeng Zhang<br>
 <font color="black"><i>International World Wide Web Conference</i> (<b>WWW, poster</b>)</font><br>
-</p>  -->
+</p>  
 
 
 
