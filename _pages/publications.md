@@ -72,186 +72,186 @@ Xueyang Feng, Zhi-Yuan Chen, Yujia Qin, Yankai Lin*, <font color="black"><b>Xu C
 
 
 
-<!-- 
+
 <p class="ex3">
 <font color="black"><b>Selected Papers (see <a href=" http://ai-engine-lab.com/"><font color="blue">AI-Engine Lab</font></a> for more details):</b></font>
 </p>
 <p class="ex1">
-<b><font color="red">[CCF A]</font></b> <font color="black"><b>Relaxing the Accurate Imputation Assumption in Doubly Robust Learning for Debiased Recommendation</b></font><br>
+<b><font color="red">[ICML CCF A]</font></b> <font color="black"><b>Relaxing the Accurate Imputation Assumption in Doubly Robust Learning for Debiased Recommendation</b></font><br>
 Haoxuan Li, Chunyuan Zh, Shuyi W, Kunhan W, Hao W, Peng W, Zhi Gen, <font color="black"><b>Xu Chen</b></font>*, Xiao-Hua Zhou*<br>
 <font color="black"><i>International Conference on Machine Learning</i> (<b>ICML 2024</b>)</font>
 </p>
 <p class="ex1">
-<b><font color="red">[CCF A]</font></b> <font color="black"><b>Generalizing Knowledge Graph Embedding with Universal Orthogonal Parameterization</b></font><br>
+<b><font color="red">[ICML CCF A]</font></b> <font color="black"><b>Generalizing Knowledge Graph Embedding with Universal Orthogonal Parameterization</b></font><br>
 Rui Li, Chaozhuo Li, Yanming Shen, Zeyu Zhang, <font color="black"><b>Xu Chen</b></font>*<br>
 <font color="black"><i>International Conference on Machine Learning</i> (<b>ICML 2024</b>)</font>
 </p>
 <p class="ex1">
-<b><font color="red">[CCF A]</font></b> <font color="black"><b>Bayesian Active Causal Discovery with Multi-Fidelity Experiments</b></font><br>
+<b><font color="red">[NeurIPS CCF A]</font></b> <font color="black"><b>Bayesian Active Causal Discovery with Multi-Fidelity Experiments</b></font><br>
 Zeyu Zhang, Chaozhuo Li, <font color="black"><b>Xu Chen</b></font>*, Xing Xie<br> 
 <font color="black"><i>Conference on Neural Information Processing Systems</i> (<b>NeurIPS 2023</b>)</font>
 </p>
 <p class="ex1">
-<b><font color="red">[CCF A]</font></b> <font color="black"><b>Offline Imitation Learning with Variational Counterfactual Reasoning</b></font><br>
+<b><font color="red">[NeurIPS CCF A]</font></b> <font color="black"><b>Offline Imitation Learning with Variational Counterfactual Reasoning</b></font><br>
 Zexu Sun, Bowei He, Jinxin Liu, Shuai Zhang, <font color="black"><b>Xu Chen</b></font>*, Chen Ma<br> 
 <font color="black"><i>Conference on Neural Information Processing Systems</i> (<b>NeurIPS 2023</b>)</font>
 </p>
 <p class="ex1">
-<font color="black"><b>Debiased Collaborative Filtering with Kernel-Based Causal Balancing</b></font><br>
+<b><font color="red">[ICLR]</font></b> <font color="black"><b>Debiased Collaborative Filtering with Kernel-Based Causal Balancing</b></font><br>
 Haoxuan Li, Chunyuan Zheng, Yanghao Xiao, Peng Wu, Zhi Geng, <font color="black"><b>Xu Chen</b></font>*, Peng Cui<br> 
 <font color="black"><i>International Conference on Learning Representations</i> (<b>ICLR 2024 spotlight 5.0%</b>)</font>
 </p>
 <p class="ex1">
-<b><font color="red">[CCF A]</font></b> <font color="black"><b>Inhomogeneous Deep Q-Network for Time Sensitive Applications.</b></font><br>
+<b><font color="red">[AIJ CCF A]</font></b> <font color="black"><b>Inhomogeneous Deep Q-Network for Time Sensitive Applications.</b></font><br>
 <font color="black"><b>Xu Chen</b></font>, Jun Wang<br>
 <font color="black"><i>Artificial Intelligence Journal</i> (<b>AIJ 2022</b>)</font>
 </p>
 <p class="ex1">
-<b><font color="red">[CCF A]</font></b> <font color="black"><b>Towards Robust Recommendation via Decision Boundary-aware Graph Contrastive Learning</b></font><br>
+<b><font color="red">[KDD CCF A]</font></b> <font color="black"><b>Towards Robust Recommendation via Decision Boundary-aware Graph Contrastive Learning</b></font><br>
 Jiakai Tang, Sunhao Dai, Zexu Sun, <font color="black"><b>Xu Chen</b></font>*, Jun Xu, Wenhui Yu, Lantao Hu, Peng Jiang, Han Li<br> 
 <font color="black"><i>ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i> (<b>KDD 2024 Research</b>)</font>
 </p>
 <p class="ex1">
-<b><font color="red">[CCF A]</font></b> <font color="black"><b>Policy-Based Bayesian Active Causal Discovery with Deep Reinforcement Learning</b></font><br>
+<b><font color="red">[KDD CCF A]</font></b> <font color="black"><b>Policy-Based Bayesian Active Causal Discovery with Deep Reinforcement Learning</b></font><br>
 Heyang Gao, Zexu Sun, Hao Yang, <font color="black"><b>Xu Chen</b></font>*<br> 
 <font color="black"><i>ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i> (<b>KDD 2024 Research</b>)</font>
 </p>
 <p class="ex1">
-<b><font color="red">[CCF A]</font></b> <font color="black"><b>Natural Language Explainable Recommendation with Robustness Enhancement</b></font><br>
+<b><font color="red">[KDD CCF A]</font></b> <font color="black"><b>Natural Language Explainable Recommendation with Robustness Enhancement</b></font><br>
 Jingsen Zhang, Jiakai Tang, <font color="black"><b>Xu Chen</b></font>*, Wenhui Yu, Lantao Hu, Peng Jiang, Han Li<br> 
 <font color="black"><i>ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i> (<b>KDD 2024 Research</b>)</font>
 </p>
 <p class="ex1">
-<b><font color="red">[CCF A]</font></b> <font color="black"><b>Hierarchical Invariant Learning for Domain Generalization Recommendation</b></font><br>
+<b><font color="red">[KDD CCF A]</font></b> <font color="black"><b>Hierarchical Invariant Learning for Domain Generalization Recommendation</b></font><br>
 Zeyu Zhang, Heyang Gao, Hao Yang, <font color="black"><b>Xu Chen</b></font>*<br> 
 <font color="black"><i>ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i> (<b>KDD 2023 Research</b>)</font>
 </p>
 <p class="ex1">
-<b><font color="red">[CCF A]</font></b> <font color="black"><b>Causally Debiased Time-aware Recommendation</b></font><br>
+<b><font color="red">[TheWebConf CCF A]</font></b> <font color="black"><b>Causally Debiased Time-aware Recommendation</b></font><br>
 Lei Wang, Chen Ma, Xian Wu, Zhaopeng Qiu, Yefeng Zheng, <font color="black"><b>Xu Chen</b></font>*<br>
 <font color="black"><i>International World Wide Web Conference</i> (<b>TheWebConf 2024</b>)</font>
 </p>
 <p class="ex1">
-<b><font color="red">[CCF A]</font></b> <font color="black"><b>Understanding Human Preferences: Towards More Personalized Video to Text Generation</b></font><br>
+<b><font color="red">[TheWebConf CCF A]</font></b> <font color="black"><b>Understanding Human Preferences: Towards More Personalized Video to Text Generation</b></font><br>
 Yihan Wu, Ruihua Song*, <font color="black"><b>Xu Chen</b></font>*, Hao Jiang, Zhao Cao, Jin Yu<br> 
 <font color="black"><i>International World Wide Web Conference</i> (<b>TheWebConf 2024</b>)</font>
 </p>
 <p class="ex1">
-<b><font color="red">[CCF A]</font></b> <font color="black"><b>Recommendation with Causality enhanced Natural Language Explanations</b></font><br>
+<b><font color="red">[TheWebConf CCF A]</font></b> <font color="black"><b>Recommendation with Causality enhanced Natural Language Explanations</b></font><br>
 Jingsen Zhang, <font color="black"><b>Xu Chen</b></font>*, Jiakai Tang, Weiqi Shao, Quanyu Dai, Zhenhua Dong, Rui Zhang<br> 
 <font color="black"><i>International World Wide Web Conference</i> (<b>TheWebConf 2023</b>)</font>
 </p>
 <p class="ex1">
-<b><font color="red">[CCF A]</font></b> <font color="black"><b>Robust Recommendation with Adversarial Gaussian Data Augmentation</b></font><br>
+<b><font color="red">[TheWebConf CCF A]</font></b> <font color="black"><b>Robust Recommendation with Adversarial Gaussian Data Augmentation</b></font><br>
 Zhenlei Wang, <font color="black"><b>Xu Chen</b></font>*<br> 
 <font color="black"><i>International World Wide Web Conference</i> (<b>TheWebConf 2023</b>)</font>
 </p>
 <p class="ex1">
-<b><font color="red">[CCF A]</font></b> <font color="black"><b>Unbiased Sequential Recommendation with Latent Confounders.</b></font><br>
+<b><font color="red">[TheWebConf CCF A]</font></b> <font color="black"><b>Unbiased Sequential Recommendation with Latent Confounders.</b></font><br>
 Zhenglei Wang, Shiqi Shen, Zhipeng Wang, Bo Chen, <font color="black"><b>Xu Chen</b></font>*, Ji-Rong Wen<br>
 <font color="black"><i>International World Wide Web Conference</i> (<b>TheWebConf 2022</b>)</font>
 </p>
 <p class="ex1">
-<b><font color="red">[CCF A]</font></b> <font color="black"><b>Sequential Recommendation with Decomposed Item Feature Routing.</b></font><br>
+<b><font color="red">[TheWebConf CCF A]</font></b> <font color="black"><b>Sequential Recommendation with Decomposed Item Feature Routing.</b></font><br>
 Kun Lin, Zhenlei Wang, Shiqi Shen, Zhipeng Wang, Bo Chen, <font color="black"><b>Xu Chen</b></font>*<br>
 <font color="black"><i>International World Wide Web Conference</i> (<b>TheWebConf 2022</b>)</font>
 </p>
 <p class="ex1">
-<b><font color="red">[CCF A]</font></b> <font color="black"><b>Generative Session-based Recommendation.</b></font><br>
+<b><font color="red">[TheWebConf CCF A]</font></b> <font color="black"><b>Generative Session-based Recommendation.</b></font><br>
 Zhidan Wang, Wenwen Ye, <font color="black"><b>Xu Chen</b></font>*, Wenqiang Zhang, Zhenlei Wang, Lixin Zou, Weidong Liu.<br>
 <font color="black"><i>International World Wide Web Conference</i> (<b>TheWebConf 2022</b>)</font>
 </p> 
 <p class="ex1">
-<b><font color="red">[CCF A]</font></b> <font color="black"><b>Reinforcement Recommendation with User Multi-aspect Preference.</b></font><br>
+<b><font color="red">[TheWebConf CCF A]</font></b> <font color="black"><b>Reinforcement Recommendation with User Multi-aspect Preference.</b></font><br>
 <font color="black"><b>Xu Chen</b></font>, Yali Du, Long Xia, Jun Wang<br>
 <font color="black"><i>International World Wide Web Conference</i> (<b>TheWebConf 2021</b>)</font>
 </p>
 <p class="ex1">
-<b><font color="red">[CCF A]</font></b> <font color="black"><b>Distributionally Robust Sequential Recommnedation.</b></font><br>
+<b><font color="red">[SIGIR CCF A]</font></b> <font color="black"><b>Distributionally Robust Sequential Recommnedation.</b></font><br>
 Rui Zhou, Xian Wu, Zhaopeng Qiu, Yefeng Zheng, <font color="black"><b>Xu Chen</b></font>*<br>
 <font color="black"><i>International ACM SIGIR Conference on Research and Development in Information Retrieval</i> (<b>SIGIR 2023</b>)</font>
 </p>
 <p class="ex1">
-<b><font color="red">[CCF A]</font></b> <font color="black"><b>Counterfactual Data-Augmented Sequential Recommendation.</b></font><br>
+<b><font color="red">[SIGIR CCF A]</font></b> <font color="black"><b>Counterfactual Data-Augmented Sequential Recommendation.</b></font><br>
 Zhenlei Wang, Jingsen Zhang, Hongteng Xu, <font color="black"><b>Xu Chen</b></font>*, Yongfeng Zhang, Wayne Xin Zhao, Ji-Rong Wen<br>
 <font color="black"><i>International ACM SIGIR Conference on Research and Development in Information Retrieval</i> (<b>SIGIR 2021</b>)</font>
 </p>
 <p class="ex1">
-<b><font color="red">[CCF A]</font></b> <font color="black"><b>Time Matters: Sequential Recommendation with Complex Temporal Information.</b></font><br>
+<b><font color="red">[SIGIR CCF A]</font></b> <font color="black"><b>Time Matters: Sequential Recommendation with Complex Temporal Information.</b></font><br>
 Wenwen Ye, Shuaiqiang Wang, <font color="black"><b>Xu Chen</b></font>*, Xuepeng Wang, Zheng Qin and Dawei Yin<br>
 <font color="black"><i>International ACM SIGIR Conference on Research and Development in Information Retrieval</i> (<b>SIGIR 2020</b>)</font>
 </p>
 <p class="ex1">
-<b><font color="red">[CCF A]</font></b> <font color="black"><b>Fashion Recommendation with Visual Explanations based on Multimodal Attention Network.</b></font><br>
+<b><font color="red">[SIGIR CCF A]</font></b> <font color="black"><b>Fashion Recommendation with Visual Explanations based on Multimodal Attention Network.</b></font><br>
 <font color="black"><b>Xu Chen</b></font>, Hanxiong Chen, Hongteng Xu, Yongfeng Zhang, Yixin Cao, Zheng Qin and Hongyuan Zha<br>
 <font color="black"><i>International ACM SIGIR Conference on Research and Development in Information Retrieval</i> (<b>SIGIR 2019</b>)</font>
 </p>
 <p class="ex1">
-<b><font color="red">[CCF A]</font></b> <font color="black"><b>Personalized Key Frame Recommendation.</b></font><br>
+<b><font color="red">[SIGIR CCF A]</font></b> <font color="black"><b>Personalized Key Frame Recommendation.</b></font><br>
 <font color="black"><b>Xu Chen</b></font>, Yongfeng Zhang, Qingyao Ai, Hongteng Xu, Junchi Yan and Zheng Qin<br>
 <font color="black"><i>International ACM SIGIR Conference on Research and Development in Information Retrieval</i> (<b>SIGIR 2017</b>)</font>
 </p>
 <p class="ex1">
-<b><font color="red">[CCF A]</font></b> <font color="black"><b>Learning to Rank Features for Recommendation over Multiple Categories.</b></font><br>
+<b><font color="red">[SIGIR CCF A]</font></b> <font color="black"><b>Learning to Rank Features for Recommendation over Multiple Categories.</b></font><br>
 <font color="black"><b>Xu Chen</b></font>, Yongfeng Zhang, Tao Xu, and Zheng Qin<br>
 <font color="black"><i>International ACM SIGIR Conference on Research and Development in Information Retrieval</i> (<b>SIGIR 2016</b>)</font>
 </p>
 <p class="ex1">
-<b><font color="red">[CCF A]</font></b> <font color="black"><b>Data Augmented Sequential Recommendation based on Counterfactual Thinking.</b></font><br>
+<b><font color="red">[TKDE CCF A]</font></b> <font color="black"><b>Data Augmented Sequential Recommendation based on Counterfactual Thinking.</b></font><br>
 <font color="black"><b>Xu Chen</b></font>, Zhenlei Wang, Hongteng Xu, Jingsen Zhang, Yongfeng Zhang, Wayne Xin Zhao and Ji-Rong Wen<br>
 <font color="black"><i>IEEE Transactions on Knowledge and Data Engineering</i> (<b>TKDE 2022</b>)</font>
 </p> 
 <p class="ex1">
-<b><font color="red">[CCF A]</font></b> <font color="black"><b>Soft Contrastive Sequential Recommendation</b></font><br>
+<b><font color="red">[TOIS CCF A]</font></b> <font color="black"><b>Soft Contrastive Sequential Recommendation</b></font><br>
 Yabin Zhang, Zhenlei Wang, Wenhui Yu, Lantao Hu, Peng Jiang, Kun Gai, <font color="black"><b>Xu Chen</b></font>*<br> 
 <font color="black"><i>ACM Transactions on Information Systems</i> (<b>TOIS 2024</b>)</font>
 </p>
 <p class="ex1">
-<b><font color="red">[CCF A]</font></b> <font color="black"><b>Distributional Fairness-aware Recommendation</b></font><br>
+<b><font color="red">[TOIS CCF A]</font></b> <font color="black"><b>Distributional Fairness-aware Recommendation</b></font><br>
 Hao Yang, Xian Wu, Zhaopeng Qiu, Yefeng Zheng, and <font color="black"><b>Xu Chen</b></font>*<br>
 <font color="black"><i>ACM Transactions on Information Systems</i> (<b>TOIS 2024</b>)</font>
 </p>
 <p class="ex1">
-<b><font color="red">[CCF A]</font></b> <font color="black"><b>Debiased Recommendation with User Feature Balancing</b></font><br>
+<b><font color="red">[TOIS CCF A]</font></b> <font color="black"><b>Debiased Recommendation with User Feature Balancing</b></font><br>
 Mengyue Y, Guohao C, Furui L, Jiarui J, Zhenhua D, Xiuqiang H, Jianye H, Weiqi S, Jun W, <font color="black"><b>Xu Chen</b>*</font><br> 
 <font color="black"><i>ACM Transactions on Information Systems</i> (<b>TOIS 2023</b>)</font>
 </p>
 <p class="ex1">
-<b><font color="red">[CCF A]</font></b> <font color="black"><b>Neural Feature-aware Recommendation with Signed Hypergraph Convolutional Network.</b></font><br>
+<b><font color="red">[TOIS CCF A]</font></b> <font color="black"><b>Neural Feature-aware Recommendation with Signed Hypergraph Convolutional Network.</b></font><br>
 <font color="black"><b>Xu Chen</b></font>, Kun Xiong, Yongfeng Zhang, Long Xia, Dawei Yin and Jimmy Huang<br>
 <font color="black"><i>ACM Transactions on Information Systems</i> (<b>TOIS 2020</b>)</font>
 </p>
 <p class="ex1">
-<b><font color="red">[CCF A]</font></b> <font color="black"><b>Adversarial Distillation for Efficient Recommendation with External Knowledge.</b></font><br>
+<b><font color="red">[TOIS CCF A]</font></b> <font color="black"><b>Adversarial Distillation for Efficient Recommendation with External Knowledge.</b></font><br>
 <font color="black"><b>Xu Chen</b></font>, Yongfeng Zhang, Honteng Xu, Zheng Qin and Hongyuan Zha<br>
 <font color="black"><i>ACM Transactions on Information Systems</i> (<b>TOIS 2019</b>)</font>
 </p>
 <p class="ex1">
-<b><font color="red">[CCF A]</font></b> <font color="black"><b>Sequential Recommendation with User Causal Behavior Discovery</b></font><br>
+<b><font color="red">[ICDE CCF A]</font></b> <font color="black"><b>Sequential Recommendation with User Causal Behavior Discovery</b></font><br>
 Zhenlei Wang, <font color="black"><b>Xu Chen</b></font>*, Zhenhua Dong, Quanyu Dai, Ji-Rong Wen<br>
 <font color="black"><i>International Conference on Data Engineering</i> (<b>ICDE 2023</b>)</font>
 </p>
 <p class="ex1">
-<b><font color="red">[CCF A]</font></b> <font color="black"><b>Visually Aware Recommendation with Aesthetic Features.</b></font><br>
+<b><font color="red">[VLDBJ CCF A]</font></b> <font color="black"><b>Visually Aware Recommendation with Aesthetic Features.</b></font><br>
 Wenhui Yu, Xiangnan He, Jian Pei, <font color="black"><b>Xu Chen</b></font>*, Li Xiong, Jinfei Liu, Zheng Qin<br>
 <font color="black"><i>The International Journal on Very Large Data Bases</i> (<b>VLDBJ 2021</b>)</font>
 </p>
 <p class="ex1">
-<b><font color="red">[CCF A]</font></b> <font color="black"><b>To Copy Rather Than Memorize: A Vertical Learning Paradigm for Knowledge Graph Completion</b></font><br>
+<b><font color="red">[ACL CCF A]</font></b> <font color="black"><b>To Copy Rather Than Memorize: A Vertical Learning Paradigm for Knowledge Graph Completion</b></font><br>
 Rui Li, <font color="black"><b>Xu Chen</b></font>*, Chaozhuo Li*, Yanming Shen, Jianan Zhao, Yujing Wang, Weihao Han, Hao Sun, weiwei deng,
 Qi Zhang and Xing Xie<br> 
 <font color="black"><i>Annual Meeting of the Association for Computational Linguistics</i> (<b>ACL 2023</b>)</font>
 </p>
 <p class="ex1">
-<b><font color="red">[CCF A]</font></b> <font color="black"><b>Would You Like Your Data to Be Trained? A User Controllable Recommendation Framework</b></font><br>
+<b><font color="red">[AAAI CCF A]</font></b> <font color="black"><b>Would You Like Your Data to Be Trained? A User Controllable Recommendation Framework</b></font><br>
 Lei Wang, <font color="black"><b>Xu Chen</b></font>*, Zhenhua Dong, Quanyu Dai<br> 
 <font color="black"><i>Thirty-Eighth AAAI Conference on Artificial Intelligence</i> (<b>AAAI 2024</b>)</font>
 </p>
 <p class="ex2">
-<b><font color="red">[CCF A]</font></b> <font color="black"><b>Dynamic Explainable Recommendation based on Neural Attentive Models.</b></font><br>
+<b><font color="red">[AAAI CCF A]</font></b> <font color="black"><b>Dynamic Explainable Recommendation based on Neural Attentive Models.</b></font><br>
 <font color="black"><b>Xu Chen</b></font>, Yongfeng Zhang, Zheng Qin<br>
 <font color="black"><i>Association for the Advancement of Artificial Intelligence</i> (<b>AAAI 2019</b>)</font>
-</p> -->
+</p> 
 
 
 
@@ -267,7 +267,7 @@ Lei Wang, <font color="black"><b>Xu Chen</b></font>*, Zhenhua Dong, Quanyu Dai<b
 
 
 
-
+<!-- 
 <p class="ex3">
 <font color="black"><b>In the year of 2024:</b></font>
 </p>
@@ -689,7 +689,7 @@ Wenwen Ye, Yongfeng Zhang, Xin Zhao, <font color="black"><b>Xu Chen</b></font> a
 <font color="black"><b>HLBPR: A Hybrid Local Bayesian Personal Ranking Method.</b></font><br>
 <font color="black"><b>Xu Chen</b></font>, Pengfei Wang, Zheng Qin, and Yongfeng Zhang<br>
 <font color="black"><i>International World Wide Web Conference</i> (<b>WWW, poster</b>)</font><br>
-</p> 
+</p>  -->
 
 
 
