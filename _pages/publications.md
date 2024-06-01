@@ -569,7 +569,7 @@ Shuqing Bian, <font color="black"><b>Xu Chen</b></font>, Xin Zhao, Kun Zhou, Yup
 <font color="black"><b>In the year of 2019:</b></font>
 </p>
 <p class="ex1">
-<b><font color="red">[CCF A]</font></b> <font color="black"><b>Personalized Fashion Recommendation with Visual Explanations based on Multimodal Attention Network.</b></font><br>
+<b><font color="red">[CCF A]</font></b> <font color="black"><b>Fashion Recommendation with Visual Explanations based on Multimodal Attention Network.</b></font><br>
 <font color="black"><b>Xu Chen</b></font>, Hanxiong Chen, Hongteng Xu, Yongfeng Zhang, Yixin Cao, Zheng Qin and Hongyuan Zha<br>
 <font color="black"><i>International ACM SIGIR Conference on Research and Development in Information Retrieval</i> (<b>SIGIR</b>)</font>
 </p>
