@@ -339,7 +339,7 @@ Zexu Sun, Bowei He, Jinxin Liu, Shuai Zhang, <font color="black"><b>Xu Chen</b><
 <p class="ex1">
 <b><font color="red">[CCF A]</font></b> <font color="black"><b>Hierarchical Invariant Learning for Domain Generalization Recommendation</b></font><br>
 Zeyu Zhang, Heyang Gao, Hao Yang, <font color="black"><b>Xu Chen</b></font>*<br> 
-<font color="black"><i>ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i> (<b>KDD</b>)</font>
+<font color="black"><i>ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i> (<b>KDD Research</b>)</font>
 </p>
 <p class="ex1">
 <b><font color="red">[CCF A]</font></b> <font color="black"><b>Recommendation with Causality enhanced Natural Language Explanations</b></font><br>
