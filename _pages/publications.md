@@ -382,12 +382,12 @@ Jiakai Tang, Shiqi Shen, Zhipeng Wang, Zhi Gong, Jingsen Zhang and <font color="
 Hao Yang, Zhining Liu, Zeyu Zhang, Chenyi Zhuang and <font color="black"><b>Xu Chen</b></font>*<br> 
 <font color="black"><i>ACM Conference on Recommender Systems</i> (<b>RecSys</b>)</font>
 </p>
-<p class="ex1">
+<p class="ex2">
 <font color="black"><b>Sequential Recommendation with User Evolving Preference Decomposition</b></font><br>
 Weiqi Shao, <font color="black"><b>Xu Chen</b></font>*, Jiashu Zhao, Long Xia, Jingsen Zhang and Dawei Yin<br>
 <font color="black"><i>International ACM SIGIR Conference on Information Retrieval in the Asia Pacific</i> (<b>SIGIR-AP, <font color="red">Best Paper Honorable Mention</font></b>) </font>
 </p>
-<p class="ex1">
+<!-- <p class="ex1">
 <font color="black"><b>Reinforcement Re-ranking with 2D Grid-based Recommendation Panels</b></font><br>
 Sirui Chen, Xiao Zhang, <font color="black"><b>Xu Chen</b></font>, Zhiyu Li, Yuan Wang, Quan Lin and Jun Xu<br>
 <font color="black"><i>International ACM SIGIR Conference on Information Retrieval in the Asia Pacific</i> (<b>SIGIR-AP</b>)</font>
@@ -411,7 +411,7 @@ Shuyuan Xu, Yingqiang Ge, Yunqi Li, Zuohui Fu, <font color="black"><b>Xu Chen</b
 <font color="black"><b>Robust Causal Inference for Recommender System to Overcome Noisy Confounders.</b></font><br>
 Zhiheng Zhang, Quanyu Dai, <font color="black"><b>Xu Chen</b></font>, Zhenhua Dong, Ruiming Tang<br>
 <font color="black"><i>International ACM SIGIR Conference on Research and Development in Information Retrieval</i> (<b>SIGIR short</b>)</font>
-</p>
+</p> -->
 
 
 <p class="ex3">
@@ -462,17 +462,17 @@ Qian Cao, <font color="black"><b>Xu Chen</b></font>, Ruihua Song, Hao Jiang, Gua
 Chen Xu, Jun Xu, <font color="black"><b>Xu Chen</b></font>, Zhenghua Dong and Ji-Rong Wen<br>
 <font color="black"><i>The Conference on Information and Knowledge Management</i> (<b>CIKM</b>)</font>
 </p>
-<p class="ex1">
+<p class="ex2">
 <b><font color="red">[CCF B]</font></b> <font color="black"><b>RecBole 2.0: Towards a More Up-to-Date Recommendation Library.</b></font><br>
 Wayne Xin Zhao, Yupeng Hou, Xingyu Pan, Chen Yang, Zeyu Zhang, Zihan Lin, Jingsen Zhang, Shuqing Bian, Jiakai
 Tang, Wenqi Sun, Yushuo Chen, Lanling Xu, Gaowei Zhang, Zhen Tian, Changxin Tian, Shanlei Mu, Xinyan Fan, <font color="black"><b>Xu Chen</b></font>* and Ji-Rong Wen<br>
 <font color="black"><i>Conference on Information and Knowledge Management</i> (<b>CIKM, resource, <font color="red">Best Resource Paper Runner Up</font></b>)</font><br>
 </p>
-<p class="ex2">
+<!-- <p class="ex2">
 <font color="black"><b>Debiased Recommendation with Neural Stratification</b></font><br>
 Quanyu Dai, Zhenhua Dong, <font color="black"><b>Xu Chen</b></font>*<br> 
 <font color="black"><i>AI Open</i></font>
-</p>
+</p> -->
 
 
 
@@ -546,20 +546,21 @@ Wenwen Ye, Shuaiqiang Wang, <font color="black"><b>Xu Chen</b></font>*, Xuepeng 
 <font color="black"><i>International ACM SIGIR Conference on Research and Development in Information Retrieval</i> (<b>SIGIR</b>)</font>
 </p>
 <p class="ex1">
-<b><font color="red">[CCF B]</font></b> <font color="black"><b>CAFE: Coarse-to-Fine Knowledge Graph Reasoning for E-Commerce Recommendation.</b></font><br>
-Yikun Xian, Zuohui Fu, Handong Zhao, Yingqiang Ge, <font color="black"><b>Xu Chen</b></font>, Qiaoying Huang, Shijie Geng, Zhou Qin, Gerard de Melo, S. Muthukrishnan and Yongfeng Zhang<br>
-<font color="black"><i>The Conference on Information and Knowledge Management</i> (<b>CIKM</b>)</font>
-</p>
-<p class="ex1">
-<b><font color="red">[CCF B]</font></b> <font color="black"><b>Learning to Match Jobs with Resumes from Sparse Interaction Data using Multi-View Co-Teaching Network.</b></font><br>
-Shuqing Bian, <font color="black"><b>Xu Chen</b></font>, Xin Zhao, Kun Zhou, Yupeng Hou, Yang Song, Tao Zhang and Ji-Rong Wen<br>
-<font color="black"><i>The Conference on Information and Knowledge Management</i> (<b>CIKM</b>)</font>
-</p>
-<p class="ex2">
 <b><font color="red">[CCF A]</font></b> <font color="black"><b>JIT2R: A Joint Framework for Item Tagging and Tag-based Recommendation.</b></font><br>
 <font color="black"><b>Xu Chen</b></font>, Changying Du, Xiuqiang He and Jun Wang<br>
 <font color="black"><i>International ACM SIGIR Conference on Research and Development in Information Retrieval</i> (<b>SIGIR, short</b>)</font>
 </p>
+<p class="ex1">
+<b><font color="red">[CCF B]</font></b> <font color="black"><b>CAFE: Coarse-to-Fine Knowledge Graph Reasoning for E-Commerce Recommendation.</b></font><br>
+Yikun Xian, Zuohui Fu, Handong Zhao, Yingqiang Ge, <font color="black"><b>Xu Chen</b></font>, Qiaoying Huang, Shijie Geng, Zhou Qin, Gerard de Melo, S. Muthukrishnan and Yongfeng Zhang<br>
+<font color="black"><i>The Conference on Information and Knowledge Management</i> (<b>CIKM</b>)</font>
+</p>
+<p class="ex2">
+<b><font color="red">[CCF B]</font></b> <font color="black"><b>Learning to Match Jobs with Resumes from Sparse Interaction Data using Multi-View Co-Teaching Network.</b></font><br>
+Shuqing Bian, <font color="black"><b>Xu Chen</b></font>, Xin Zhao, Kun Zhou, Yupeng Hou, Yang Song, Tao Zhang and Ji-Rong Wen<br>
+<font color="black"><i>The Conference on Information and Knowledge Management</i> (<b>CIKM</b>)</font>
+</p>
+
 
 
 
@@ -589,7 +590,7 @@ Wenhui Yu, Jinfei Liu, Jiann Pei, Li Xiong, <font color="black"><b>Xu Chen</b></
 <font color="black"><i>IEEE Transactions on Knowledge and Data Engineering</i> (<b>TKDE</b>)</font>
 </p>
 <p class="ex2">
-<font color="black"><b>Dynamic News Recommendation with Hierarchical Attention Network.</b></font><br>
+<b><font color="red">[CCF B]</font></b> <font color="black"><b>Dynamic News Recommendation with Hierarchical Attention Network.</b></font><br>
 Hui Zhang, <font color="black"><b>Xu Chen</b></font> and Shuai Ma<br>
 <font color="black"><i>International Conference on Data Mining</i> (<b>ICDM, short</b>)</font>
 </p>
@@ -615,20 +616,20 @@ Wenhui Yu, Huidi Zhang, Xiangnan He, <font color="black"><b>Xu Chen</b></font>, 
 <font color="black"><i>International World Wide Web Conference</i> (<b>TheWebConf, <font color="red">Best Paper Honorable Mention</font></b>)</font><br>
 </p>
 <p class="ex1">
-<b><font color="red">[CCF C]</font></b> <font color="black"><b>Benefits from Superposed Hawkes Processes.</b></font><br>
-Hongteng Xu, Dixin Luo, <font color="black"><b>Xu Chen</b></font> and Lawrence Carin<br>
-<font color="black"><i>Artificial Intelligence and Statistics Conference</i> (<b>AISTATS</b>)</font>. 
-</p>
-<p class="ex1">
 <b><font color="red">[CCF B]</font></b> <font color="black"><b>Joint Representation Learning of Cross-lingual Words and Entities via Attentive Distant Supervision.</b></font><br>
 Yixin Cao, Lei Hou, Juanzi Li, Zhiyuan Liu, Chengjiang Li, <font color="black"><b>Xu Chen</b></font> and Tiansi Dong<br>
 <font color="black"><i>Empirical Methods in Natural Language Processing</i> (<b>EMNLP</b>)</font>. 
 </p>
 <p class="ex2">
+<b><font color="red">[CCF C]</font></b> <font color="black"><b>Benefits from Superposed Hawkes Processes.</b></font><br>
+Hongteng Xu, Dixin Luo, <font color="black"><b>Xu Chen</b></font> and Lawrence Carin<br>
+<font color="black"><i>Artificial Intelligence and Statistics Conference</i> (<b>AISTATS</b>)</font>. 
+</p>
+<!-- <p class="ex2">
 <font color="black"><b>Learning Heterogeneous Knowledge Base Embeddings for Explainable Recommendation.</b></font><br>
 Qingyao Ai, Vahid Azizi, <font color="black"><b>Xu Chen</b></font> and Yongfeng Zhang<br>
 <font color="black"><i>Algorithms Journal</i></font>. 
-</p>
+</p> -->
 
 
 <p class="ex3">
@@ -638,11 +639,6 @@ Qingyao Ai, Vahid Azizi, <font color="black"><b>Xu Chen</b></font> and Yongfeng 
 <b><font color="red">[CCF A]</font></b> <font color="black"><b>Personalized Key Frame Recommendation.</b></font><br>
 <font color="black"><b>Xu Chen</b></font>, Yongfeng Zhang, Qingyao Ai, Hongteng Xu, Junchi Yan and Zheng Qin<br>
 <font color="black"><i>International ACM SIGIR Conference on Research and Development in Information Retrieval</i> (<b>SIGIR</b>)</font>
-</p>
-<p class="ex1">
-<b><font color="red">[CCF B]</font></b> <font color="black"><b>Joint Learning for Top-N Recommendation with Heterogenous Information.</b></font><br>
-Yongfeng Zhang, Qingyao Ai, <font color="black"><b>Xu Chen</b></font> and W. Bruce Croft<br>
-<font color="black"><i>The Conference on Information and Knowledge Management</i> (<b>CIKM</b>)</font>
 </p>
 <p class="ex1">
 <b><font color="red">[CCF A]</font></b> <font color="black"><b>Bridge Text and Knowledge by Learning Multi-Prototype Entity Mention Embedding.</b></font><br>
@@ -655,11 +651,16 @@ Qingyao Ai, Yongfeng Zhang, Keping Bi, <font color="black"><b>Xu Chen</b></font>
 <font color="black"><i>International ACM SIGIR Conference on Research and Development in Information Retrieval</i> (<b>SIGIR</b>)</font>
 </p>
 <p class="ex1">
+<b><font color="red">[CCF B]</font></b> <font color="black"><b>Joint Learning for Top-N Recommendation with Heterogenous Information.</b></font><br>
+Yongfeng Zhang, Qingyao Ai, <font color="black"><b>Xu Chen</b></font> and W. Bruce Croft<br>
+<font color="black"><i>The Conference on Information and Knowledge Management</i> (<b>CIKM</b>)</font>
+</p>
+<p class="ex2">
 <b><font color="red">[CCF B]</font></b> <font color="black"><b>Fast Algorithm of Pareto Optimal Group-based Skyline.</b></font><br>
 Wenhui Yu, Zheng Qin, Jinfei Liu, Li Xiong, <font color="black"><b>Xu Chen</b></font> and Huidi Zhang<br>
 <font color="black"><i>The Conference on Information and Knowledge Management</i> (<b>CIKM</b>)</font>
 </p>
-<p class="ex1">
+<!-- <p class="ex1">
 <font color="black"><b>An Explainable Probabilistic Local Matrix Factorization by Leveraging User Reviews.</b></font><br>
 <font color="black"><b>Xu Chen</b></font>, Yongfeng Zhang, Xin Zhao, Wenwen Ye and Zheng Qin<br>
 <font color="black"><i>Asia Information Retrieval Societies Conference</i> (<b>AIRS</b>)</font>
@@ -668,7 +669,7 @@ Wenhui Yu, Zheng Qin, Jinfei Liu, Li Xiong, <font color="black"><b>Xu Chen</b></
 <font color="black"><b>A Collaborative Model for Rating Prediction by Leveraging Reviews and Images.</b></font><br>
 Wenwen Ye, Yongfeng Zhang, Xin Zhao, <font color="black"><b>Xu Chen</b></font> and Zheng Qin<br>
 <font color="black"><i>Asia Information Retrieval Societies Conference</i> (<b>AIRS, <font color="red">Best Paper Award</font></b>)</font><br>
-</p>
+</p> -->
 
 
 <p class="ex3">
@@ -680,7 +681,7 @@ Wenwen Ye, Yongfeng Zhang, Xin Zhao, <font color="black"><b>Xu Chen</b></font> a
 <font color="black"><i>International ACM SIGIR Conference on Research and Development in Information Retrieval</i> (<b>SIGIR</b>)</font>
 </p>
 <p class="ex2">
-<font color="black"><b>HLBPR: A Hybrid Local Bayesian Personal Ranking Method.</b></font><br>
+<b><font color="red">[CCF A]</font></b> <font color="black"><b>HLBPR: A Hybrid Local Bayesian Personal Ranking Method.</b></font><br>
 <font color="black"><b>Xu Chen</b></font>, Pengfei Wang, Zheng Qin, and Yongfeng Zhang<br>
 <font color="black"><i>International World Wide Web Conference</i> (<b>WWW, poster</b>)</font><br>
 </p>  
