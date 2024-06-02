@@ -655,21 +655,21 @@ Qingyao Ai, Yongfeng Zhang, Keping Bi, <font color="black"><b>Xu Chen</b></font>
 Yongfeng Zhang, Qingyao Ai, <font color="black"><b>Xu Chen</b></font> and W. Bruce Croft<br>
 <font color="black"><i>The Conference on Information and Knowledge Management</i> (<b>CIKM</b>)</font>
 </p>
-<p class="ex2">
+<p class="ex1">
 <b><font color="red">[CCF B]</font></b> <font color="black"><b>Fast Algorithm of Pareto Optimal Group-based Skyline.</b></font><br>
 Wenhui Yu, Zheng Qin, Jinfei Liu, Li Xiong, <font color="black"><b>Xu Chen</b></font> and Huidi Zhang<br>
 <font color="black"><i>The Conference on Information and Knowledge Management</i> (<b>CIKM</b>)</font>
-</p>
-<!-- <p class="ex1">
-<font color="black"><b>An Explainable Probabilistic Local Matrix Factorization by Leveraging User Reviews.</b></font><br>
-<font color="black"><b>Xu Chen</b></font>, Yongfeng Zhang, Xin Zhao, Wenwen Ye and Zheng Qin<br>
-<font color="black"><i>Asia Information Retrieval Societies Conference</i> (<b>AIRS</b>)</font>
 </p>
 <p class="ex2">
 <font color="black"><b>A Collaborative Model for Rating Prediction by Leveraging Reviews and Images.</b></font><br>
 Wenwen Ye, Yongfeng Zhang, Xin Zhao, <font color="black"><b>Xu Chen</b></font> and Zheng Qin<br>
 <font color="black"><i>Asia Information Retrieval Societies Conference</i> (<b>AIRS, <font color="red">Best Paper Award</font></b>)</font><br>
-</p> -->
+</p> 
+<!-- <p class="ex1">
+<font color="black"><b>An Explainable Probabilistic Local Matrix Factorization by Leveraging User Reviews.</b></font><br>
+<font color="black"><b>Xu Chen</b></font>, Yongfeng Zhang, Xin Zhao, Wenwen Ye and Zheng Qin<br>
+<font color="black"><i>Asia Information Retrieval Societies Conference</i> (<b>AIRS</b>)</font>
+</p>-->
 
 
 <p class="ex3">
