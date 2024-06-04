@@ -71,7 +71,7 @@ Xueyang Feng, Zhi-Yuan Chen, Yujia Qin, Yankai Lin*, <font color="black"><b>Xu C
 </p>
 
 
-<!-- see <a href=" http://ai-engine-lab.com/"><font color="blue">AI-Engine Lab</font></a> for more details -->
+see <a href=" https://scholar.google.com/citations?hl=en&user=loPoqy0AAAAJ&view_op=list_works&sortby=pubdate"><font color="blue">My Google Scholar</font></a> for more details
 
 <!-- 
 <p class="ex3">
@@ -261,7 +261,7 @@ Lei Wang, <font color="black"><b>Xu Chen</b></font>*, Zhenhua Dong, Quanyu Dai<b
 
 
 
-
+<!-- 
 <p class="ex3">
 <font color="black"><b>In the year of 2024:</b></font>
 </p>
@@ -319,11 +319,11 @@ Yabin Zhang, Zhenlei Wang, Wenhui Yu, Lantao Hu, Peng Jiang, Kun Gai, <font colo
 <b><font color="red">[CCF A]</font></b> <font color="black"><b>Distributional Fairness-aware Recommendation</b></font><br>
 Hao Yang, Xian Wu, Zhaopeng Qiu, Yefeng Zheng, and <font color="black"><b>Xu Chen</b></font>*<br>
 <font color="black"><i>ACM Transactions on Information Systems</i> (<b>TOIS</b>)</font>
-</p>
+</p> -->
 
 
 
-<p class="ex3">
+<!-- <p class="ex3">
 <font color="black"><b>In the year of 2023:</b></font>
 </p>
 <p class="ex1">
@@ -386,7 +386,7 @@ Hao Yang, Zhining Liu, Zeyu Zhang, Chenyi Zhuang and <font color="black"><b>Xu C
 <font color="black"><b>Sequential Recommendation with User Evolving Preference Decomposition</b></font><br>
 Weiqi Shao, <font color="black"><b>Xu Chen</b></font>*, Jiashu Zhao, Long Xia, Jingsen Zhang and Dawei Yin<br>
 <font color="black"><i>International ACM SIGIR Conference on Information Retrieval in the Asia Pacific</i> (<b>SIGIR-AP, <font color="red">Best Paper Honorable Mention</font></b>) </font>
-</p>
+</p> -->
 <!-- <p class="ex1">
 <font color="black"><b>Reinforcement Re-ranking with 2D Grid-based Recommendation Panels</b></font><br>
 Sirui Chen, Xiao Zhang, <font color="black"><b>Xu Chen</b></font>, Zhiyu Li, Yuan Wang, Quan Lin and Jun Xu<br>
@@ -414,7 +414,7 @@ Zhiheng Zhang, Quanyu Dai, <font color="black"><b>Xu Chen</b></font>, Zhenhua Do
 </p> -->
 
 
-<p class="ex3">
+<!-- <p class="ex3">
 <font color="black"><b>In the year of 2022:</b></font>
 </p>
 <p class="ex1">
@@ -467,7 +467,7 @@ Chen Xu, Jun Xu, <font color="black"><b>Xu Chen</b></font>, Zhenghua Dong and Ji
 Wayne Xin Zhao, Yupeng Hou, Xingyu Pan, Chen Yang, Zeyu Zhang, Zihan Lin, Jingsen Zhang, Shuqing Bian, Jiakai
 Tang, Wenqi Sun, Yushuo Chen, Lanling Xu, Gaowei Zhang, Zhen Tian, Changxin Tian, Shanlei Mu, Xinyan Fan, <font color="black"><b>Xu Chen</b></font>* and Ji-Rong Wen<br>
 <font color="black"><i>Conference on Information and Knowledge Management</i> (<b>CIKM, resource, <font color="red">Best Resource Paper Runner Up</font></b>)</font><br>
-</p>
+</p> -->
 <!-- <p class="ex2">
 <font color="black"><b>Debiased Recommendation with Neural Stratification</b></font><br>
 Quanyu Dai, Zhenhua Dong, <font color="black"><b>Xu Chen</b></font>*<br> 
@@ -476,7 +476,7 @@ Quanyu Dai, Zhenhua Dong, <font color="black"><b>Xu Chen</b></font>*<br>
 
 
 
-
+<!-- 
 <p class="ex3">
 <font color="black"><b>In the year of 2021:</b></font>
 </p>
@@ -624,14 +624,14 @@ Yixin Cao, Lei Hou, Juanzi Li, Zhiyuan Liu, Chengjiang Li, <font color="black"><
 <b><font color="red">[CCF C]</font></b> <font color="black"><b>Benefits from Superposed Hawkes Processes.</b></font><br>
 Hongteng Xu, Dixin Luo, <font color="black"><b>Xu Chen</b></font> and Lawrence Carin<br>
 <font color="black"><i>Artificial Intelligence and Statistics Conference</i> (<b>AISTATS</b>)</font>. 
-</p>
+</p> -->
 <!-- <p class="ex2">
 <font color="black"><b>Learning Heterogeneous Knowledge Base Embeddings for Explainable Recommendation.</b></font><br>
 Qingyao Ai, Vahid Azizi, <font color="black"><b>Xu Chen</b></font> and Yongfeng Zhang<br>
 <font color="black"><i>Algorithms Journal</i></font>. 
 </p> -->
 
-
+<!-- 
 <p class="ex3">
 <font color="black"><b>In the year of 2017:</b></font>
 </p>
@@ -664,14 +664,14 @@ Wenhui Yu, Zheng Qin, Jinfei Liu, Li Xiong, <font color="black"><b>Xu Chen</b></
 <font color="black"><b>A Collaborative Model for Rating Prediction by Leveraging Reviews and Images.</b></font><br>
 Wenwen Ye, Yongfeng Zhang, Xin Zhao, <font color="black"><b>Xu Chen</b></font> and Zheng Qin<br>
 <font color="black"><i>Asia Information Retrieval Societies Conference</i> (<b>AIRS, <font color="red">Best Paper Award</font></b>)</font><br>
-</p> 
+</p>  -->
 <!-- <p class="ex1">
 <font color="black"><b>An Explainable Probabilistic Local Matrix Factorization by Leveraging User Reviews.</b></font><br>
 <font color="black"><b>Xu Chen</b></font>, Yongfeng Zhang, Xin Zhao, Wenwen Ye and Zheng Qin<br>
 <font color="black"><i>Asia Information Retrieval Societies Conference</i> (<b>AIRS</b>)</font>
 </p>-->
 
-
+<!-- 
 <p class="ex3">
 <font color="black"><b>In the year of 2016:</b></font>
 </p>
@@ -684,7 +684,7 @@ Wenwen Ye, Yongfeng Zhang, Xin Zhao, <font color="black"><b>Xu Chen</b></font> a
 <b><font color="red">[CCF A]</font></b> <font color="black"><b>HLBPR: A Hybrid Local Bayesian Personal Ranking Method.</b></font><br>
 <font color="black"><b>Xu Chen</b></font>, Pengfei Wang, Zheng Qin, and Yongfeng Zhang<br>
 <font color="black"><i>International World Wide Web Conference</i> (<b>WWW, poster</b>)</font><br>
-</p>  
+</p>   -->
 
 
 
