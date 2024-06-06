@@ -27,7 +27,7 @@ p.ex3 {
 
 About me (<a href="https://gsai.ruc.edu.cn/chenxu"><font color="black">中文介绍</font></a>)
 ======
-<br>Xu Chen is an associate professor (pre-tenure) at <a href="http://ai.ruc.edu.cn/"><font color="blue">Gaoling School of Artificial Intelligence, Renmin University of China</font></a>. Before that, he was a research fellow at University College London, UK, working with Prof. <a href="http://www0.cs.ucl.ac.uk/staff/Jun.Wang/"><font color="blue">Jun Wang</font></a>. 
+<br>Xu Chen is a tenure-track associate professor at <a href="http://ai.ruc.edu.cn/"><font color="blue">Gaoling School of Artificial Intelligence, Renmin University of China</font></a>. Before that, he was a research fellow at University College London, UK, working with Prof. <a href="http://www0.cs.ucl.ac.uk/staff/Jun.Wang/"><font color="blue">Jun Wang</font></a>. 
 He obtained his PhD degree from Tsinghua University, China, under the supervision of Prof. <a href="https://www.thss.tsinghua.edu.cn/faculty/qinzheng.htm"><font color="blue">Zheng Qin</font></a>. 
 In the period from March to September of 2017, he was studying at Georgia Institute of Technology, USA, as a visiting scholar, supervised by Prof. <a href="https://sds.cuhk.edu.cn/en/teacher/65"><font color="blue">Hongyuan Zha</font></a>. 
 His research fields include LLM-based autonomous agents, causal inference and recommendation system.
@@ -44,7 +44,7 @@ Please drop me an email at xu.chen@ruc.edu.cn if you are interested in my resear
 <p class="ex3">
 <b>What's new</b>
 </p>
-<p class="ex1">
+<!-- <p class="ex1">
 2024-5-17 Three papers got accepted by <b>KDD 2024</b>.
 </p>
 <p class="ex1">
@@ -139,7 +139,7 @@ Please drop me an email at xu.chen@ruc.edu.cn if you are interested in my resear
 </p>
 <p class="ex1">
 2021-08-11 Papers on explainable and causal recommendation got accepted by <b>CIKM 2021</b>.
-</p>
+</p> -->
 <p class="ex1">
 2021-05-08 One paper on multi-agent evaluation and matrix completion got accepted by <b>ICML 2021</b>.
 </p>
