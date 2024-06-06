@@ -31,7 +31,7 @@ About me (<a href="https://gsai.ruc.edu.cn/chenxu"><font color="black">中文介
 He obtained his PhD degree from Tsinghua University, China, under the supervision of Prof. <a href="https://www.thss.tsinghua.edu.cn/faculty/qinzheng.htm"><font color="blue">Zheng Qin</font></a>. 
 In the period from March to September of 2017, he was studying at Georgia Institute of Technology, USA, as a visiting scholar, supervised by Prof. <a href="https://sds.cuhk.edu.cn/en/teacher/65"><font color="blue">Hongyuan Zha</font></a>. 
 His research fields include LLM-based autonomous agents, causal inference and recommendation system.
-For more information, please visit his lab page <a href=" http://ai-engine-lab.com/"><font color="blue">AI-Engine Lab</font></a>.
+<!-- For more information, please visit his lab page <a href=" http://ai-engine-lab.com/"><font color="blue">AI-Engine Lab</font></a>. -->
 <br>
 
 
