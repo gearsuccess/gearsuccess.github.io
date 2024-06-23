@@ -61,17 +61,17 @@ Yongfeng Zhang and <font color="black"><b>Xu Chen</b></font>.<br>
 </p>
 
 
-<p class="ex3">
+<!-- <p class="ex3">
 <font color="black"><b>Preprint Papers:</b></font>
 </p>
 <p class="ex2">
 <font color="black"><b>Large Language Model-based Human-Agent Collaboration for Complex Task Solving</b></font><br>
 Xueyang Feng, Zhi-Yuan Chen, Yujia Qin, Yankai Lin*, <font color="black"><b>Xu Chen</b></font>*, Zhiyuan Liu, Ji-Rong Wen<br>
 <font color="black"><i>https://arxiv.org/abs/2402.12914</i></font>
-</p>
+</p> -->
 
 
-<!-- see <a href=" https://scholar.google.com/citations?hl=en&user=loPoqy0AAAAJ&view_op=list_works&sortby=pubdate"><font color="blue">My Google Scholar</font></a> for more details -->
+see <a href=" https://scholar.google.com/citations?hl=en&user=loPoqy0AAAAJ&view_op=list_works&sortby=pubdate"><font color="blue">My Google Scholar</font></a> for more details
 
 <!-- 
 <p class="ex3">
