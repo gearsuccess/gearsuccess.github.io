@@ -44,7 +44,7 @@ Please drop me an email at xu.chen@ruc.edu.cn if you are interested in my resear
 <p class="ex3">
 <b>What's new</b>
 </p>
-<!-- <p class="ex1">
+<p class="ex1">
 2024-5-17 Three papers got accepted by <b>KDD 2024</b>.
 </p>
 <p class="ex1">
@@ -139,8 +139,8 @@ Please drop me an email at xu.chen@ruc.edu.cn if you are interested in my resear
 </p>
 <p class="ex1">
 2021-08-11 Papers on explainable and causal recommendation got accepted by <b>CIKM 2021</b>.
-</p> -->
-<!-- <p class="ex1">
+</p> 
+<p class="ex1">
 2021-05-08 One paper on multi-agent evaluation and matrix completion got accepted by <b>ICML 2021</b>.
 </p>
 <p class="ex1">
@@ -155,10 +155,10 @@ Please drop me an email at xu.chen@ruc.edu.cn if you are interested in my resear
 <p class="ex1">
 2020-11-19 Join <a href="http://ai.ruc.edu.cn/"><font color="blue">Gaoling School of Artificial Intelligence, Renmin University of China</font></a> as an assistant professor.
 </p>
-<br><br> -->
+<br><br> 
 
 
-<!-- 
+
 <p class="ex3">
 <b>Academic Services</b>
 </p>
@@ -200,7 +200,7 @@ ACM Transactions on Intelligent Systems and Technology (TIST);
 Transactions on Machine Learning Research (TMLR);
 Journal of Machine Learning Research (JMLR)
 </p>
-<br> -->
+<br> 
 
 
 
