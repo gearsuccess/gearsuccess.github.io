@@ -71,7 +71,7 @@ Xueyang Feng, Zhi-Yuan Chen, Yujia Qin, Yankai Lin*, <font color="black"><b>Xu C
 </p> -->
 
 
-see <a href=" https://scholar.google.com/citations?hl=en&user=loPoqy0AAAAJ&view_op=list_works&sortby=pubdate"><font color="blue">My Google Scholar</font></a> for more details
+<!-- see <a href=" https://scholar.google.com/citations?hl=en&user=loPoqy0AAAAJ&view_op=list_works&sortby=pubdate"><font color="blue">My Google Scholar</font></a> for more details -->
 
 <!-- 
 <p class="ex3">
