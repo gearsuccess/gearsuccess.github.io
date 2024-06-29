@@ -74,9 +74,8 @@ Xueyang Feng, Zhi-Yuan Chen, Yujia Qin, Yankai Lin*, <font color="black"><b>Xu C
 
 
 
-
 <p class="ex3">
-<font color="black"><b>Selected Papers (see <a href=" http://ai-engine-lab.com/"><font color="blue">AI-Engine Lab</font></a> for more details):</b></font>
+<font color="black"><b>Selected Papers:</b></font>
 </p>
 <p class="ex1">
 <b><font color="red">[CCF A]</font></b> <font color="black"><b>Relaxing the Accurate Imputation Assumption in Doubly Robust Learning for Debiased Recommendation</b></font><br>
