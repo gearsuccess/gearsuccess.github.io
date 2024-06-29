@@ -4,7 +4,7 @@ title: "Awards"
 permalink: /awards/
 author_profile: true
 ---
-* CCF Science and Technology Achievement Award (Second Prize) 2022 
+* CCF Science and Technology Achievement Award Second Prize (2/2) 2022 
 * Best Paper Honorable Mention, The Web Conference 2018 (CCF A)
 * Best Resource Paper Runner Up, CIKM 2022 (CCF B)
 * Best Paper Honorable Mention Award, SIGIR-AP 2023
