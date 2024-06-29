@@ -44,7 +44,7 @@ Please drop me an email at xu.chen@ruc.edu.cn if you are interested in my resear
 <p class="ex3">
 <b>What's new</b>
 </p>
-<!-- <p class="ex1">
+<p class="ex1">
 2024-5-17 Three papers got accepted by <b>KDD 2024</b>.
 </p>
 <p class="ex1">
@@ -79,7 +79,7 @@ Please drop me an email at xu.chen@ruc.edu.cn if you are interested in my resear
 </p>
 <p class="ex1">
 2023-9-22 Papers on causal inference and reinforcement learning got accepted by <b>NeurIPS 2023</b>.
-</p> -->
+</p>
 <p class="ex1">
 2023-9-19 We have released the second version of "<b>RecAgent</b>".
 </p>
