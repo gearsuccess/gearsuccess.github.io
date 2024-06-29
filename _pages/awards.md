@@ -8,7 +8,7 @@ author_profile: true
 <!-- * Best Paper Honorable Mention, The Web Conference 2018 (CCF A)
 * Best Resource Paper Runner Up, CIKM 2022 (CCF B)
 * Best Paper Honorable Mention Award, SIGIR-AP 2023
-* Best Paper Award, AIRS 2017  -->
+* Best Paper Award, AIRS 2017 -->
 * World's Top 2% Scientist by Stanford University 2023 
 * ACM-Beijing Rising Star Award 2022 
 * CAAI-BDSC Social Computing Rising Star Award 2024 
