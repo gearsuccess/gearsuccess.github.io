@@ -70,7 +70,7 @@ Xueyang Feng, Zhi-Yuan Chen, Yujia Qin, Yankai Lin*, <font color="black"><b>Xu C
 <font color="black"><i>https://arxiv.org/abs/2402.12914</i></font>
 </p> -->
 
-See my<a href=" https://scholar.google.com/citations?hl=en&user=loPoqy0AAAAJ&view_op=list_works&sortby=pubdate"><font color="blue">Google Scholar</font></a> for more details
+See my <a href=" https://scholar.google.com/citations?hl=en&user=loPoqy0AAAAJ&view_op=list_works&sortby=pubdate"><font color="blue">Google Scholar</font></a> for more details
 
 
 <!-- 
