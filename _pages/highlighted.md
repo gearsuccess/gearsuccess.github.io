@@ -18,7 +18,7 @@ p.ex2 {
 }
 </style>
 
-
+<!-- 
 <div align="center" class="main">
 <img src="../images/agent-s.jpeg" alt="agent-s" width="760">
 </div> 
@@ -111,7 +111,7 @@ In recent years, there are a large number of recommendation algorithms proposed 
 Yongfeng Zhang and <font color="black"><b>Xu Chen</b></font>.<br>
 <font color="blue">In this survey, we (1) provide a chronological research timeline of explainable recommendation, (2) present a two-dimensional taxonomy to classify existing explainable recommendation research, and (3) summarize how explainable recommendation applies to different recommendation tasks.</font><br>
 <font color="black"><i>Foundations and Trends in Information Retrieval</i> (<b>FTinIR 2020</b>)</font>
-</p>
+</p> -->
 <br>
 
 
