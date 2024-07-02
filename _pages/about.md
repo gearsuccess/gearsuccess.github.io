@@ -147,7 +147,7 @@ Please drop me an email at xu.chen@ruc.edu.cn if you are interested in my resear
 <p class="ex1">
 2021-04-15 One paper on causal recommendation got accepted by <b>SIGIR 2021</b>.
 </p>
-<p class="ex1">
+<!-- <p class="ex1">
 2021-01-16 Two papers on recommendation and reinforcement learning got accepted by <b>TheWebConf 2021</b>.
 </p>
 <p class="ex1">
@@ -155,7 +155,7 @@ Please drop me an email at xu.chen@ruc.edu.cn if you are interested in my resear
 </p>
 <p class="ex1">
 2020-11-19 Join <a href="http://ai.ruc.edu.cn/"><font color="blue">Gaoling School of Artificial Intelligence, Renmin University of China</font></a> as an assistant professor.
-</p>
+</p> -->
 <br><br> 
 
 
